@@ -1,0 +1,129 @@
+================================================================================
+DAVID KNOTT BLOG STRUCTURE & MECHANICS ANALYSIS
+================================================================================
+
+1. OPENING PATTERNS
+--------------------------------------------------------------------------------
+  FACT: 124 posts (68.9%)
+  QUESTION: 53 posts (29.4%)
+  STATEMENT: 3 posts (1.7%)
+
+First sentence length: 277.5 chars (avg)
+  Min: 29 chars
+  Max: 611 chars
+
+Sample openings by type:
+
+  QUESTION:
+    - ---
+title: "Do you need an umbrella or a lifeboat?"
+date: 2022-07-21
+author: "David Knott"
+source: "...
+    - ---
+title: "Is your technology solution a well behaved house guest?"
+date: 2022-07-28
+author: "David...
+    - ---
+title: "Not just someone else’s computer: to understand cloud, go back to the start"
+date: 2022-...
+
+  FACT:
+    - ---
+title: "Old is not bad: are you modernising legacy systems for the best reasons?"
+date: 2022-06-...
+    - ---
+title: "The human path to legacy modernisation"
+date: 2022-07-07
+author: "David Knott"
+source: "...
+    - ---
+title: "Do you know the difference between reliability and resilience?"
+date: 2022-07-14
+author:...
+
+  STATEMENT:
+    - ---
+title: "Now you're thinking with ....
+    - ---
+title: "Exercise your mind, body ....
+    - ---
+title: "I was going to do something about legacy technology but I forgot ....
+
+
+2. SECTION ORGANIZATION
+--------------------------------------------------------------------------------
+Posts with bold headers: 47/180 (26.1%)
+Average bold headers per structured post: 4.0
+H2 headers found: 0
+H3 headers found: 0
+
+Total bold headers analyzed: 186
+
+Sample bold headers:
+  - Because they’re old
+  - Because they’re written in old coding languages
+  - Because nobody wants to work on them
+  - Because we don’t have the skills any more
+  - Because they’re slow to change
+  - Because operating conditions have changed
+  - Because they’re too big
+  - Because somebody else does it better
+  - Reliability protects normality; resilience strives for survival
+  - Reliability should be routine; resilience requires imagination
+  - Reliability needs testing; resilience requires rehearsal
+  - Rapid innovation is not new
+  - Incremental innovation can also be fundamental innovation
+  - Immediate advantages may not be obvious
+  - Centrality of the Internet
+  - Innovation with the Prospect of Scale
+  - Need for Reliability
+  - Motivation
+  - Ambition
+  - Leadership
+
+
+3. PARAGRAPH ARCHITECTURE
+--------------------------------------------------------------------------------
+Average paragraphs per post: 15.7
+Single-sentence paragraphs: 929/2829 (32.8%)
+
+
+4. CLOSING PATTERNS
+--------------------------------------------------------------------------------
+Posts with disclaimer: 1/180
+
+Unique disclaimer variants: 1
+
+
+5. FORMATTING CONVENTIONS
+--------------------------------------------------------------------------------
+bold: 186 total, 1.0 per post (avg)
+bullet_lists: 51 total, 0.3 per post (avg)
+em_dashes: 1 total, 0.0 per post (avg)
+italic: 2 total, 0.0 per post (avg)
+links: 145 total, 0.8 per post (avg)
+numbered_lists: 9 total, 0.1 per post (avg)
+parentheticals: 741 total, 4.1 per post (avg)
+
+
+6. LENGTH ANALYSIS
+--------------------------------------------------------------------------------
+Average word count: 904
+Median word count: 884
+Min word count: 618
+Max word count: 1628
+
+Shortest post: 2023-08-10-5-ps-ingredients-for-technology-success (618 words)
+Longest post: 2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems (1628 words)
+
+Word count distribution:
+  0-500: 0 posts (0.0%)
+  500-750: 30 posts (16.7%)
+  750-1000: 109 posts (60.6%)
+  1000-1250: 35 posts (19.4%)
+  1250-1500: 4 posts (2.2%)
+  1500-2000: 2 posts (1.1%)
+  2000-10000: 0 posts (0.0%)
+
+================================================================================

@@ -1,0 +1,1374 @@
+{
+  "total_posts": 180,
+  "question_stats": {
+    "total_questions": 736,
+    "avg_per_post": 4.09,
+    "posts_with_title_questions": 0,
+    "opening_questions": [
+      {
+        "post": "2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md",
+        "question": "title: \"Old is not bad: are you modernising legacy systems for the best reasons?\""
+      },
+      {
+        "post": "2022-07-14-do-you-know-the-difference-between-reliability-and.md",
+        "question": "title: \"Do you know the difference between reliability and resilience?\""
+      },
+      {
+        "post": "2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md",
+        "question": "title: \"Do you need an umbrella or a lifeboat?\""
+      },
+      {
+        "post": "2022-07-28-is-your-technology-solution-a-well-behaved-house-g.md",
+        "question": "title: \"Is your technology solution a well behaved house guest?\""
+      },
+      {
+        "post": "2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md",
+        "question": "title: \"How do I get there from here? Two first rungs on the ladder to the cloud\""
+      },
+      {
+        "post": "2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l.md",
+        "question": "title: \"Going to the cloud? Make sure you’ve packed enough leadership and thought\""
+      },
+      {
+        "post": "2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to.md",
+        "question": "title: \"There’s plenty of room on the cloud: enough room to make mistakes?\""
+      },
+      {
+        "post": "2022-09-15-what-if-we-behaved-as-if-we-cared-about-technology.md",
+        "question": "title: \"What if we behaved as if we cared about technology?\""
+      },
+      {
+        "post": "2022-12-08-do-you-have-werewolves-in-your-technology-architec.md",
+        "question": "title: \"Do you have werewolves in your technology architecture?\""
+      },
+      {
+        "post": "2022-12-15-can-we-generate-intelligence-about-generative-arti.md",
+        "question": "title: \"Can we generate intelligence about generative artificial intelligence?\""
+      },
+      {
+        "post": "2023-01-26-how-do-we-get-what-we-want-from-ai-systems-and-hum.md",
+        "question": "title: \"How do we get what we want from AI systems - and human systems?\""
+      },
+      {
+        "post": "2023-02-09-are-you-breaking-up-monoliths-or-creating-rubble-p.md",
+        "question": "title: \"Are you breaking up monoliths, or  creating rubble piles?\""
+      },
+      {
+        "post": "2023-02-16-who-said-that-adopting-cloud-was-going-to-be-fair.md",
+        "question": "title: \"Who said that adopting cloud was going to be fair?\""
+      },
+      {
+        "post": "2023-03-02-is-there-a-human-shaped-hole-in-your-technology-pl.md",
+        "question": "title: \"Is there a human shaped hole in your technology plans?\""
+      },
+      {
+        "post": "2023-03-16-do-you-wish-to-proceed-yn.md",
+        "question": "title: \"Do you wish to proceed? y/n\""
+      },
+      {
+        "post": "2023-04-13-what-if-we-could-see-software.md",
+        "question": "title: \"What if we could see software?\""
+      },
+      {
+        "post": "2023-04-19-will-conversation-save-us-from-frustration.md",
+        "question": "title: \"Will conversation save us from frustration?\""
+      },
+      {
+        "post": "2023-05-04-what-do-i-believe-about-enterprise-technology.md",
+        "question": "title: \"What do I believe about enterprise technology?\""
+      },
+      {
+        "post": "2023-05-11-styles-of-reuse-what-do-we-expect-from-each-other.md",
+        "question": "title: \"Styles of reuse: what do we expect from each other?\""
+      },
+      {
+        "post": "2023-05-18-answering-the-question-how-do-you-stay-current.md",
+        "question": "title: \"Answering the question 'How do you stay current?'\""
+      }
+    ],
+    "example_questions": []
+  },
+  "rule_of_three": {
+    "posts_with_first_second_third": 43,
+    "posts_with_triads": 170,
+    "examples": [
+      {
+        "post": "2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md",
+        "triads": [
+          [
+            "of agility",
+            "inflated costs",
+            "alarming risk"
+          ],
+          [
+            "with drag",
+            "friction",
+            "waste"
+          ],
+          [
+            "and enthusiasts",
+            "advocates",
+            "detractors"
+          ]
+        ]
+      },
+      {
+        "post": "2022-07-07-the-human-path-to-legacy-modernisation.md",
+        "triads": [
+          [
+            "sounds unlikely",
+            "go",
+            "speak to"
+          ],
+          [
+            "are hard",
+            "often fail",
+            "rarely get"
+          ],
+          [
+            "in ownership",
+            "engagement",
+            "pride"
+          ]
+        ]
+      },
+      {
+        "post": "2022-07-14-do-you-know-the-difference-between-reliability-and.md",
+        "triads": [
+          [
+            "Moon missions",
+            "Apollo 11",
+            "Apollo 13"
+          ],
+          [
+            "Moreover",
+            "the astronauts",
+            "their counterparts"
+          ],
+          [
+            "their training",
+            "skills",
+            "character"
+          ]
+        ]
+      },
+      {
+        "post": "2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md",
+        "triads": [
+          [
+            "be important",
+            "interesting",
+            "challenging problems"
+          ]
+        ]
+      },
+      {
+        "post": "2022-07-28-is-your-technology-solution-a-well-behaved-house-g.md",
+        "triads": [
+          [
+            "of screens",
+            "cables",
+            "chargers that"
+          ],
+          [
+            "see me",
+            "hear me",
+            "talk to"
+          ],
+          [
+            "polite",
+            "discrete",
+            "reliable"
+          ]
+        ]
+      },
+      {
+        "post": "2022-08-11-not-just-someone-elses-computer-to-understand-clou.md",
+        "triads": [
+          [
+            "patterns",
+            "components",
+            "capabilities from"
+          ],
+          [
+            "to procure",
+            "configure",
+            "manage servers"
+          ],
+          [
+            "as Google",
+            "Amazon",
+            "Microsoft for"
+          ]
+        ]
+      },
+      {
+        "post": "2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md",
+        "triads": [
+          [
+            "something nebulous",
+            "light",
+            "airy"
+          ],
+          [
+            "network equipment",
+            "cables",
+            "physical facilities"
+          ],
+          [
+            "on innovation",
+            "reliability",
+            "resilience"
+          ]
+        ]
+      },
+      {
+        "post": "2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l.md",
+        "triads": [
+          [
+            "empowerment",
+            "balance",
+            "persistence"
+          ],
+          [
+            "of working",
+            "shift control",
+            "risk mechanisms"
+          ],
+          [
+            "with empowerment",
+            "balance",
+            "persistence"
+          ]
+        ]
+      },
+      {
+        "post": "2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to.md",
+        "triads": [
+          [
+            "are new",
+            "transformational",
+            "difficult"
+          ],
+          [
+            "and controls",
+            "of policies",
+            "compliance"
+          ],
+          [
+            "risk functions",
+            "auditors",
+            "others"
+          ]
+        ]
+      },
+      {
+        "post": "2022-09-08-danger-zones-on-the-way-to-cloud-the-mists-of-conf.md",
+        "triads": [
+          [
+            "to inspire",
+            "organise",
+            "motivate"
+          ],
+          [
+            "as applications",
+            "servers",
+            "datasets"
+          ],
+          [
+            "to explain",
+            "patiently",
+            "carefully"
+          ]
+        ]
+      },
+      {
+        "post": "2022-09-22-i-like-spaghetti-on-my-plate-not-in-my-code.md",
+        "triads": [
+          [
+            "on reliability",
+            "on agility",
+            "on the"
+          ],
+          [
+            "value",
+            "manage",
+            "care for"
+          ]
+        ]
+      },
+      {
+        "post": "2022-09-29-into-the-quantum-field-of-ignorance.md",
+        "triads": [
+          [
+            "directly detect",
+            "see",
+            "touch"
+          ],
+          [
+            "making mistakes",
+            "learning lessons",
+            "trying again"
+          ],
+          [
+            "several companies",
+            "including Alphabet",
+            "IBM"
+          ]
+        ]
+      },
+      {
+        "post": "2022-10-13-week-2-of-trying-to-learn-about-quantum-computing.md",
+        "triads": [
+          [
+            "weirdness",
+            "a wall",
+            "wonder"
+          ],
+          [
+            "detailed articles",
+            "summaries",
+            "links that"
+          ],
+          [
+            "For me",
+            "AI",
+            "some types"
+          ]
+        ]
+      },
+      {
+        "post": "2022-10-20-a-quantum-of-understanding-thanks-to-help-from-som.md",
+        "triads": [
+          [
+            "of time",
+            "space",
+            "patience"
+          ]
+        ]
+      },
+      {
+        "post": "2022-10-27-schrodingers-yawn-a-deliberately-boring-account-of.md",
+        "triads": [
+          [
+            "keep quiet",
+            "pay attention",
+            "respect the"
+          ]
+        ]
+      },
+      {
+        "post": "2022-11-03-a-state-of-excitation-about-quantum-computing.md",
+        "triads": [
+          [
+            "zero",
+            "or both",
+            "could therefore"
+          ],
+          [
+            "of scale",
+            "stability",
+            "error correction"
+          ]
+        ]
+      },
+      {
+        "post": "2022-11-10-time-travel-back-to-the-days-of-quantum-ignorance.md",
+        "triads": [
+          [
+            "are cheap",
+            "abundant",
+            "robust"
+          ],
+          [
+            "are expensive",
+            "rare",
+            "delicate"
+          ],
+          [
+            "Second",
+            "modelling",
+            "simulation of"
+          ]
+        ]
+      },
+      {
+        "post": "2022-11-17-conways-law-power-money-capability-and-the-duty-to.md",
+        "triads": [
+          [
+            "money",
+            "capability",
+            "the duty"
+          ],
+          [
+            "of money",
+            "power",
+            "capability"
+          ],
+          [
+            "the power",
+            "money",
+            "control of"
+          ]
+        ]
+      },
+      {
+        "post": "2022-11-24-build-your-way-out-of-the-ivory-tower.md",
+        "triads": [
+          [
+            "a team",
+            "solving problems",
+            "making decisions"
+          ],
+          [
+            "developer portals",
+            "messages buses",
+            "so on"
+          ]
+        ]
+      },
+      {
+        "post": "2022-12-01-the-line-the-simplest-cloud-architecture-diagram-y.md",
+        "triads": [
+          [
+            "but complexity",
+            "cost",
+            "risk"
+          ],
+          [
+            "when needed",
+            "software",
+            "data are"
+          ],
+          [
+            "organisation",
+            "cultural change",
+            "new models"
+          ]
+        ]
+      }
+    ]
+  },
+  "counterarguments": {
+    "however_count": 157,
+    "but_count": 487,
+    "and_yet_count": 25,
+    "examples": [
+      {
+        "post": "2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md",
+        "patterns": {
+          "however": [
+            "However, we must be clear about which skills are being lost",
+            "However, make sure that you learn the lesson of the last generation of systems: the operating conditions of anything that you build today will also change, and your systems will need to adapt",
+            "However, it is also sensible to ask whether adopting someone else’s solution will genuinely solve the problems that you have with your legacy systems"
+          ],
+          "but": [
+            "But this is not just because they are old: as Voyager shows us, well built systems operating in a defined context can keep working almost indefinitely (until the power runs out)",
+            "I think that legacy transformation often makes sense, but we do not always do it for the best reasons",
+            "But perhaps this is a self fulfilling prophecy: if we characterize legacy systems in this way, then it should be no surprise that nobody wants to work on them"
+          ],
+          "and_yet": [
+            "And yet software keeps going on much longer than this",
+            "And yet it keeps on going"
+          ],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-07-07-the-human-path-to-legacy-modernisation.md",
+        "patterns": {
+          "however": [],
+          "but": [
+            "But it results in a mode of operation in which the teams that work on legacy systems are fed with a flow of tasks and change requests from projects, and are not allowed to work on anything else",
+            "But this feels like a just which is well within the power of most technology teams"
+          ],
+          "and_yet": [
+            "And yet"
+          ],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-07-14-do-you-know-the-difference-between-reliability-and.md",
+        "patterns": {
+          "however": [
+            "However, I think that sometimes, when we attempt to design our systems to keep going, we fail to distinguish sufficiently between reliability and resilience"
+          ],
+          "but": [
+            "The system was built out of unreliable components (all individual components are unreliable) but was reliable in aggregate",
+            "It was not thought to be a likely scenario, but it _was_ thought about, so the crew did not have to invent the approach from scratch",
+            "Because cloud is new to many companies (or, for companies who have been using cloud for a while, they are reaching new levels of usage and dependence), they are asking, ‘What happens when things go wr"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md",
+        "patterns": {
+          "however": [
+            "However, most traditional companies conclude that they are not ready for such a practice: they don’t yet have sufficient confidence in their reliability (or how they would explain deliberately breakin"
+          ],
+          "but": [
+            "But that basic definition is not quite enough to disentangle these related but distinct topics",
+            "We may not know exactly which server, network component or storage array will fail, or exactly when it will fail, but we know that they _will_ fail",
+            "And, just like any code, if we build a certain type of behaviour (the ability to operate in the event of a routine failure), but don’t test it, then our job is not done"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-07-28-is-your-technology-solution-a-well-behaved-house-g.md",
+        "patterns": {
+          "however": [
+            "However, the shift in the technology in my home has been qualitative as well as quantitative"
+          ],
+          "but": [
+            "These are all choices I have made, but I have to confess that I don’t remember consciously making all of them",
+            "It is convenient that my bank account, which used to live in my branch and send me a letter from time to time, now seems to live in my pocket - but I don’t recall inviting my bank home with me",
+            "This is a good thing, but I don’t think we should limit ourselves to AI: as we develop these principles, we should ask whether we have consistently followed them in the development of other technologi"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-08-04-through-the-innovation-window.md",
+        "patterns": {
+          "however": [
+            "However, these earlier images had problems which made them effectively unusable: they either needed extremely long exposure times, measured in hours, or could not be viewed in strong light, otherwise "
+          ],
+          "but": [
+            "In the aggregate, this is right, but we should not overlook those earlier moments in history where the rate of change in a particular field suddenly spiked",
+            "Today, we may experience more changes more often, but we should not underestimate the upheavals experienced by earlier generations",
+            "Daguerre and Fox Talbot could be regarded as making incremental innovations - but those increments were so large that they changed the world"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-08-11-not-just-someone-elses-computer-to-understand-clou.md",
+        "patterns": {
+          "however": [
+            "However, I think that we can find a more interesting answer by going back to the origins of cloud"
+          ],
+          "but": [],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md",
+        "patterns": {
+          "however": [
+            "However, there is one way in which the term ‘cloud’ is useful"
+          ],
+          "but": [
+            "But it is rare for all of these things to matter equally to any particular enterprise at any point in time",
+            "But it does mean being wholehearted and ambitious about the destination",
+            "But that’s not enough: in my next article, I will explore the importance of leadership, thought, empowerment, balance and persistence"
+          ],
+          "and_yet": [
+            "And yet many enterprises still seem reluctant to move into their new home"
+          ],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l.md",
+        "patterns": {
+          "however": [],
+          "but": [
+            "All those things are important (it’s hard to organise lots of people to do complicated things, and hard to get them to stay organised), but they are necessary rather than sufficient",
+            "The processes were there, but the momentum required to sustain true change was never achieved",
+            "You may also have found that much effort is also expended on avoiding thinking too hard about difficult questions of why and how, but rather to just _keep on going_"
+          ],
+          "and_yet": [
+            "Have you ever attempted a transformation programme where you set up all the necessary mechanics, and yet the programme failed to fire"
+          ],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to.md",
+        "patterns": {
+          "however": [],
+          "but": [
+            "**Balance**\n\nI suspect that many people, especially those people in cloud operations, controls or security teams will have read that previous section with frustration, thinking that it’s all very well",
+            "There’s yet another article to be written about whether blame is the right reaction to failure (spoiler alert: it isn’t) and whether companies should look primarily to their operations and security te",
+            "This is not just because it defers some of the primary benefits of cloud, but because it defers the completion of the very foundations and controls we are trying to build"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-09-08-danger-zones-on-the-way-to-cloud-the-mists-of-conf.md",
+        "patterns": {
+          "however": [
+            "However, they seem to exist everywhere: there is always a reason not to do something"
+          ],
+          "but": [
+            "What makes this time different?’_\n\nYou knew that this question was coming, but you still don’t have a good answer",
+            "But you know that you have not been convincing",
+            "But nevertheless, you put a brave face on things, and you present the positives"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-09-15-what-if-we-behaved-as-if-we-cared-about-technology.md",
+        "patterns": {
+          "however": [
+            "However, I also believe that we need to do more than just take the time to explain: I think that we need to change the way we express our attitudes towards technology"
+          ],
+          "but": [
+            "I believe that all of these reactions are reasonable but wrong, and that we should take the time to explain why",
+            "We should explain technology with patience, but we should also explain it with passion",
+            "The puzzle in enterprise technology is not why we build it up, only to tear it down, but why we struggle to make the case for using the astonishing products of human creativity to their full potential"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-09-22-i-like-spaghetti-on-my-plate-not-in-my-code.md",
+        "patterns": {
+          "however": [],
+          "but": [
+            "But it is not enough to convey the reality of building complex systems from scratch, let alone the reality of maintaining code which has grown organically over years and decades",
+            "We prove that it meets outward needs (performance, reliability, functional behaviour) but rarely test that it meets inward needs (readability, maintainability, agility)",
+            "It _spaghettifies_: a term usually used to describe what happens when an object gets too close to a black hole, but one we’ll use here to describe what happens to code when it spends too long in the c"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-09-29-into-the-quantum-field-of-ignorance.md",
+        "patterns": {
+          "however": [],
+          "but": [
+            "We can deduce the existence of the other 95%, referred to as dark matter and dark energy, by its effects, but we don’t know what it really is",
+            "Any one person can get to grips with some of the topics that make up this huge and ever more complex field, but we will only ever grasp a few percent",
+            "But I think I’m going to try the following:\n\n-   Week 1: pick a topic and share the little I know about it, and give myself a mark out of 10 for understanding (no further research allowed)\n-   Week 2:"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-10-06-week-1-the-first-layer-of-the-quantum-onion.md",
+        "patterns": {
+          "however": [
+            "However those three dimensional superconducting cavities or their alternatives work, they seem to be very delicate as well as very cold"
+          ],
+          "but": [
+            "The rules were that in the first week, I would only look at articles from the press, not written by specialists in the field, partly to introduce myself to the subject, but also to get a feel for how ",
+            "Straight away, I learnt something new, but also had new questions",
+            "But it would not be the only time I would encounter the claim that quantum computers are good at AI"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-10-13-week-2-of-trying-to-learn-about-quantum-computing.md",
+        "patterns": {
+          "however": [],
+          "but": [
+            "[Last week](https://www.linkedin.com/pulse/week-1-first-layer-quantum-onion-david-knott/) I started by reading popular articles to gauge what an interested layperson could understand by scanning the p",
+            "But if you place a third filter between the first two, rotated 45 degrees, light gets through again",
+            "This is counter-intuitive and very strange to those of us who live in the macro world: if we place more filters in front of a light, we expect it to get dimmer, not brighter ([This video](https://www."
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-10-20-a-quantum-of-understanding-thanks-to-help-from-som.md",
+        "patterns": {
+          "however": [],
+          "but": [
+            "---\ntitle: \"A quantum of understanding - thanks to help from some friends\"\ndate: 2022-10-20\nauthor: \"David Knott\"\nsource: \"https://www.linkedin.com/pulse/quantum-understanding-thanks-help-from-some-fr",
+            "I learnt many more things than I have space to share here, such as the comparative state of quantum computing (similar to classical computing in the 1960s), and the potential threat to cryptography (t",
+            "But the main lesson I learnt was a basic understanding of the significance of qubits compared to classical bits"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-10-27-schrodingers-yawn-a-deliberately-boring-account-of.md",
+        "patterns": {
+          "however": [],
+          "but": [
+            "We could do nothing but process qubits which have been measured and which have assumed determinate states of one or zero",
+            "(At this point, not only is the temptation to visualise very strong, but I also find that my maths ran out a long time ago, so I can’t even shut up and calculate: rather, I just have to keep quiet, pa",
+            "Qubits, entangled or otherwise, can be processed through logic gates, similar to those found in classical computers, but adapted to handle the properties of quantum entities"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-11-03-a-state-of-excitation-about-quantum-computing.md",
+        "patterns": {
+          "however": [
+            "However, I’m once again grateful to [Ariel Mordetzki](/in/ariel-mordetzki-4486801a3/) for making this clearer to me",
+            "However, what became apparent was that, when you are modelling objects at the molecular level, you are dealing with quantum properties, and classical computers are not always good at modelling these p",
+            "However, it seems that there are still obstacles"
+          ],
+          "but": [
+            "Those claims made me feel that I should be excited, but didn’t give me enough understanding to know why",
+            "I won’t repeat my boring account of quantum computing here, but will give my one sentence version (as usual, if this is wrong, please correct me in the comments): quantum computing is the use of entit",
+            "Before it is measured, a qubit is not one, or zero, or one or zero at the same time, but in an indeterminate state, a superposition, with a probability of being found to be in a particular state when "
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      },
+      {
+        "post": "2022-11-10-time-travel-back-to-the-days-of-quantum-ignorance.md",
+        "patterns": {
+          "however": [
+            "However, this threat is also practically distant: cracking encryption using modern techniques could require thousands of qubits, and current quantum computers only have hundreds"
+          ],
+          "but": [
+            "How do you program a quantum computer?**\n\nI attempted to answer these questions in my [deliberately boring article](https://www.linkedin.com/pulse/schrodingers-yawn-deliberately-boring-account-quantum",
+            "So, part of the challenge of quantum computing is not just measuring the qubits, but avoiding measuring them until the computation has been performed",
+            "I’m afraid that I don’t have the maths to precisely describe what such problems are, but understand that they fall into two categories"
+          ],
+          "and_yet": [],
+          "this_is_not_to_say": [],
+          "on_the_other_hand": []
+        }
+      }
+    ]
+  },
+  "evidence": {
+    "personal_experience_count": 63,
+    "external_refs_count": 105,
+    "analogy_count": 119,
+    "examples": [
+      {
+        "post": "2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md",
+        "evidence": {
+          "personal_experience": [],
+          "external_references": [],
+          "analogies": [
+            "just as Voyager flies ever further into space.",
+            "Just as with age, we need to be precise about why this is bad."
+          ],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-07-07-the-human-path-to-legacy-modernisation.md",
+        "evidence": {
+          "personal_experience": [
+            "I have seen this done, I have seen two important results.",
+            "I have seen that, when we trust the team to organise their work, they deliver more features and improve the quality of the system."
+          ],
+          "external_references": [
+            "[old is not bad](https://www."
+          ],
+          "analogies": [],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md",
+        "evidence": {
+          "personal_experience": [],
+          "external_references": [
+            "[reliability and resilience](https://www."
+          ],
+          "analogies": [],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md",
+        "evidence": {
+          "personal_experience": [],
+          "external_references": [],
+          "analogies": [
+            "just as much of an acrobatic balancing act.",
+            "imagine an infrastructure team driven by short-term, tactical challenges: data centre leases are about to expire, and core infrastructure components such as OS images are out of date."
+          ],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l.md",
+        "evidence": {
+          "personal_experience": [],
+          "external_references": [
+            "[This article](https://www."
+          ],
+          "analogies": [],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to.md",
+        "evidence": {
+          "personal_experience": [],
+          "external_references": [
+            "[first article](https://www.",
+            "[second article](http://ttps://www."
+          ],
+          "analogies": [
+            "just as we do when we attempt anything that is difficult."
+          ],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-09-08-danger-zones-on-the-way-to-cloud-the-mists-of-conf.md",
+        "evidence": {
+          "personal_experience": [],
+          "external_references": [
+            "[motivation and ambition](https://www.",
+            "[leadership and thought](https://www."
+          ],
+          "analogies": [],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-09-15-what-if-we-behaved-as-if-we-cared-about-technology.md",
+        "evidence": {
+          "personal_experience": [],
+          "external_references": [
+            "[written before](https://www.",
+            "[duty to explain](https://www."
+          ],
+          "analogies": [],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-09-22-i-like-spaghetti-on-my-plate-not-in-my-code.md",
+        "evidence": {
+          "personal_experience": [],
+          "external_references": [
+            "[Winchester Mystery House](https://winchestermysteryhouse."
+          ],
+          "analogies": [],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-09-29-into-the-quantum-field-of-ignorance.md",
+        "evidence": {
+          "personal_experience": [],
+          "external_references": [],
+          "analogies": [
+            "is like this."
+          ],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-10-06-week-1-the-first-layer-of-the-quantum-onion.md",
+        "evidence": {
+          "personal_experience": [
+            "when I started."
+          ],
+          "external_references": [
+            "[Last week](https://www.",
+            "[strange quantum phenomena](https://en."
+          ],
+          "analogies": [],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-10-13-week-2-of-trying-to-learn-about-quantum-computing.md",
+        "evidence": {
+          "personal_experience": [
+            "I have found that new computing topics can be divided into two broad categories.",
+            "I have found."
+          ],
+          "external_references": [
+            "[learning in public](https://www.",
+            "[Last week](https://www."
+          ],
+          "analogies": [],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-10-20-a-quantum-of-understanding-thanks-to-help-from-som.md",
+        "evidence": {
+          "personal_experience": [],
+          "external_references": [
+            "[Last week](http://ps://www.",
+            "[my attempts to understand quantum computing](https://www."
+          ],
+          "analogies": [
+            "Imagine that I have a coin.",
+            "imagine that I also have a trick coin, which is 75% likely to come up heads, and only 25% likely to come up tails (maybe I am a con artist, and I use this coin to make money off unsuspecting victims in bars)."
+          ],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-10-27-schrodingers-yawn-a-deliberately-boring-account-of.md",
+        "evidence": {
+          "personal_experience": [
+            "I have found in investigating this field is that it very easy to fall prey to mystification."
+          ],
+          "external_references": [
+            "[for the last few weeks](https://www."
+          ],
+          "analogies": [],
+          "historical_examples": []
+        }
+      },
+      {
+        "post": "2022-11-03-a-state-of-excitation-about-quantum-computing.md",
+        "evidence": {
+          "personal_experience": [
+            "when I started, but it became more complicated as I progressed."
+          ],
+          "external_references": [
+            "[this series of articles about quantum computing](https://www.",
+            "[account of quantum computing](https://www."
+          ],
+          "analogies": [],
+          "historical_examples": []
+        }
+      }
+    ]
+  },
+  "conclusions": {
+    "action_oriented": 134,
+    "with_humility": 148,
+    "measured": 88,
+    "examples": [
+      {
+        "post": "2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md",
+        "patterns": {
+          "action_oriented": true,
+          "humility_markers": true,
+          "measured": true
+        },
+        "text": "ated over time can make systems which are very bad. Those bad practices may be in the way we manage software, the way we manage people, or the way we manage architectures. The experience of running legacy systems over decades has taught us a lot of lessons: if we don’t learn those lessons then we wi"
+      },
+      {
+        "post": "2022-07-07-the-human-path-to-legacy-modernisation.md",
+        "patterns": {
+          "action_oriented": true,
+          "humility_markers": true,
+          "measured": true
+        },
+        "text": "cy modernisation strategies, we should look to the team before the systems. If we modernise the way we treat and trust them, perhaps we can avoid expensive, risky replacement projects.\nOf course, this may be another dangerous ‘just’: we just need to change the way we treat teams managing legacy syst"
+      },
+      {
+        "post": "2022-07-14-do-you-know-the-difference-between-reliability-and.md",
+        "patterns": {
+          "action_oriented": false,
+          "humility_markers": true,
+          "measured": true
+        },
+        "text": " (how we get the Apollo 13 crew home safely). If, when planning the adoption of new technologies such as public cloud, we mix up reliability and resilience, we run a high risk of either over-engineering, to attempt to preserve service in the event of all imaginable scenarios, or under-preparing, and"
+      },
+      {
+        "post": "2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md",
+        "patterns": {
+          "action_oriented": true,
+          "humility_markers": true,
+          "measured": true
+        },
+        "text": "d who steps back and who steps forward in the event of a catastrophe.\nReliability is an engineering problem; resilience is a strategic need. Both were treated as afterthoughts in enterprise computing for many years, until we became so dependent on computer systems that they could not be ignored. The"
+      },
+      {
+        "post": "2022-07-28-is-your-technology-solution-a-well-behaved-house-g.md",
+        "patterns": {
+          "action_oriented": true,
+          "humility_markers": true,
+          "measured": true
+        },
+        "text": "nd otherwise embrace the concept of what is coming to be known as Responsible AI. This is a good thing, but I don’t think we should limit ourselves to AI: as we develop these principles, we should ask whether we have consistently followed them in the development of other technologies which have pene"
+      },
+      {
+        "post": "2022-08-04-through-the-innovation-window.md",
+        "patterns": {
+          "action_oriented": true,
+          "humility_markers": true,
+          "measured": true
+        },
+        "text": "for the scene.\nToday, we should think through the implications of the advances we make, and exercise patience before we judge them: their advantages may not be immediately apparent.\nIt’s a privilege and a wonder to be able to go back to the origins of innovations in this way, to stand on the spot wh"
+      },
+      {
+        "post": "2022-08-11-not-just-someone-elses-computer-to-understand-clou.md",
+        "patterns": {
+          "action_oriented": false,
+          "humility_markers": false,
+          "measured": false
+        },
+        "text": "nges that are needed to realise this value. Cloud platforms came into existence because the companies that created them had to use technology to solve new and interesting problems. They are not unique: all companies have had to solve interesting problems particular to their context. The next challen"
+      },
+      {
+        "post": "2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md",
+        "patterns": {
+          "action_oriented": false,
+          "humility_markers": true,
+          "measured": true
+        },
+        "text": "and how fast are we going to go?). If you don’t have a cloud strategy, or your cloud strategy does not define your motivations and your ambition, perhaps it’s time to get the pen out again.\nIf you know the reason for your journey (motivation), how far you are prepared to go (ambition), then you have"
+      },
+      {
+        "post": "2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l.md",
+        "patterns": {
+          "action_oriented": false,
+          "humility_markers": false,
+          "measured": true
+        },
+        "text": " it mean to commit to a strategic partner for many years? And then, when you think you have answered these questions, to test whether you have achieved real clarity, or whether you still have work to do. (In a future article, I’ll try to list some of the hard questions about cloud.)\nBut even if your"
+      },
+      {
+        "post": "2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to.md",
+        "patterns": {
+          "action_oriented": true,
+          "humility_markers": true,
+          "measured": true
+        },
+        "text": "oot represents the deployment of production workloads. I continue to believe that this is the best way to achieve balance when attempting strategic cloud migration.\nAnd we will still make mistakes. And we will still experience setbacks and disappointments, just as we do when we attempt anything that"
+      },
+      {
+        "post": "2022-09-08-danger-zones-on-the-way-to-cloud-the-mists-of-conf.md",
+        "patterns": {
+          "action_oriented": false,
+          "humility_markers": false,
+          "measured": false
+        },
+        "text": "n this article, then you can remind the questioner patiently about the reasons for the transformation and why you believe it can work, you can show how policies and procedural obstacles are steadily and diligently being overcome, and you can explain how even errors, approached with generosity, are p"
+      },
+      {
+        "post": "2022-09-15-what-if-we-behaved-as-if-we-cared-about-technology.md",
+        "patterns": {
+          "action_oriented": true,
+          "humility_markers": false,
+          "measured": true
+        },
+        "text": "ould explain technology with patience, but we should also explain it with passion. We should make the case of building more stuff that matters, and building it well. The puzzle in enterprise technology is not why we build it up, only to tear it down, but why we struggle to make the case for using th"
+      },
+      {
+        "post": "2022-09-22-i-like-spaghetti-on-my-plate-not-in-my-code.md",
+        "patterns": {
+          "action_oriented": true,
+          "humility_markers": true,
+          "measured": true
+        },
+        "text": "e learnt painfully over the years) is that while it may make sense to replace legacy systems that are beyond repair, if we do not also replace the practices that put them beyond repair, we will find ourselves in the same situation again. When we make the case for change, we must not just make the ca"
+      },
+      {
+        "post": "2022-09-29-into-the-quantum-field-of-ignorance.md",
+        "patterns": {
+          "action_oriented": false,
+          "humility_markers": true,
+          "measured": false
+        },
+        "text": "nt. I know quite a bit about computing, something about quantum mechanics, but have a lot of open questions.\nIf you’re as ignorant as me on this topic, then the next few articles may be interesting, as I try to figure out the answers. If you’re a quantum computing expert and you’d like to enlighten "
+      },
+      {
+        "post": "2022-10-06-week-1-the-first-layer-of-the-quantum-onion.md",
+        "patterns": {
+          "action_oriented": false,
+          "humility_markers": false,
+          "measured": false
+        },
+        "text": " questions than when I started. I also came away with the feeling that, as I expected, this field is both hard to write about and hard to read about in lay terms. There is something about the term ‘quantum’ which creates a mental barrier: an expectation in the reader that they won’t be able to under"
+      }
+    ]
+  },
+  "repetition": {
+    "repeated_starts": [],
+    "examples": [
+      {
+        "post": "2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "If your",
+              8
+            ],
+            [
+              "**Because they’re",
+              4
+            ],
+            [
+              "Will it",
+              4
+            ],
+            [
+              "It is",
+              3
+            ]
+          ],
+          "motivation_patterns": [
+            "If your motivation for modernisation is simply to have something new, remember that it will get old too.",
+            "If your motivation for modernisation is simply to have code in one language rather than another language, think carefully about what advantages this gives you.",
+            "If your motivation for modernisation is to make people want to work on your core systems, then you need to think about how you make that work interesting and valued - legacy or not.",
+            "If your motivation for modernisation is a lack of skills, think hard about the skills you want to build and the skills you don’t: do you want excellent technology professionals who can build systems that anybody can understand, or do you want experts in systems that others find mysterious?",
+            "If your motivation for modernisation is speed and agility, make sure that you build with a focus on code quality, readability and test coverage."
+          ]
+        }
+      },
+      {
+        "post": "2022-07-07-the-human-path-to-legacy-modernisation.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "What if",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-07-14-do-you-know-the-difference-between-reliability-and.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "Are we",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-07-28-is-your-technology-solution-a-well-behaved-house-g.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "I had",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-08-04-through-the-innovation-window.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "Today, we",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-08-11-not-just-someone-elses-computer-to-understand-clou.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "For cloud",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "And we",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-09-08-danger-zones-on-the-way-to-cloud-the-mists-of-conf.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "You have",
+              5
+            ],
+            [
+              "What about",
+              4
+            ],
+            [
+              "It didn’t",
+              3
+            ],
+            [
+              "What makes",
+              3
+            ],
+            [
+              "You are",
+              3
+            ],
+            [
+              "In this",
+              3
+            ],
+            [
+              "Somebody will",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-09-15-what-if-we-behaved-as-if-we-cared-about-technology.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "I believe",
+              4
+            ],
+            [
+              "Business leaders",
+              3
+            ],
+            [
+              "I can",
+              3
+            ],
+            [
+              "We should",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-09-22-i-like-spaghetti-on-my-plate-not-in-my-code.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "Are we",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-09-29-into-the-quantum-field-of-ignorance.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "- I",
+              3
+            ],
+            [
+              "How do",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-10-13-week-2-of-trying-to-learn-about-quantum-computing.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "As I",
+              3
+            ],
+            [
+              "This is",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-11-03-a-state-of-excitation-about-quantum-computing.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "_Excitement level:",
+              4
+            ],
+            [
+              "In summary,",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-11-10-time-travel-back-to-the-days-of-quantum-ignorance.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "How do",
+              3
+            ],
+            [
+              "I think",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      },
+      {
+        "post": "2022-12-01-the-line-the-simplest-cloud-architecture-diagram-y.md",
+        "patterns": {
+          "repeated_sentence_starts": [
+            [
+              "Below the",
+              3
+            ],
+            [
+              "Above the",
+              3
+            ]
+          ],
+          "motivation_patterns": []
+        }
+      }
+    ]
+  },
+  "structure": {
+    "avg_paragraphs": 14.72,
+    "posts_with_disclaimers": 0
+  }
+}

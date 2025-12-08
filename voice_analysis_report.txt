@@ -1,0 +1,417 @@
+================================================================================
+DAVID KNOTT BLOG VOICE & PRONOUN PATTERN ANALYSIS
+================================================================================
+
+Total posts analyzed: 180
+Total sentences: 6,988
+Total words: 168,201
+Date range: 2022-06-30 to 2025-12-04
+
+================================================================================
+1. FIRST PERSON 'I' USAGE PATTERNS
+================================================================================
+
+Total 'I' pattern occurrences: 706
+Average per post: 3.9
+
+Frequency breakdown:
+  i_have              :  226 occurrences (3.23% of sentences)
+  i_think             :  193 occurrences (2.76% of sentences)
+  i_believe           :  104 occurrences (1.49% of sentences)
+  i_can               :   59 occurrences (0.84% of sentences)
+  i_would             :   34 occurrences (0.49% of sentences)
+  i_want              :   17 occurrences (0.24% of sentences)
+  i_need              :   15 occurrences (0.21% of sentences)
+  i_find              :   14 occurrences (0.20% of sentences)
+  i_must_admit        :   11 occurrences (0.16% of sentences)
+  i_feel              :   11 occurrences (0.16% of sentences)
+  i_like              :    9 occurrences (0.13% of sentences)
+  i_suspect           :    8 occurrences (0.11% of sentences)
+  i_ve                :    3 occurrences (0.04% of sentences)
+  i_remember          :    1 occurrences (0.01% of sentences)
+  i_dont              :    1 occurrences (0.01% of sentences)
+
+EXAMPLES OF TOP 'I' PATTERNS:
+
+  I_HAVE (226 occurrences):
+    - "On the few occasions I have seen this done, I have seen two important results..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "On the few occasions I have seen this done, I have seen two important results..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "Firstly, I have seen that, when we trust the team to organise their work, they deliver more features and improve the quality of the system..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  I_THINK (193 occurrences):
+    - "I think that legacy transformation often makes sense, but we do not always do it for the best reasons..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "There is one situation in which I think it is worth attempting to change the way in which change is funded: legacy modernisation..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "And I think that is because we can show that typical funding models for change in legacy systems are one cause of the problems with those systems..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  I_BELIEVE (104 occurrences):
+    - "I believe that this historical moment reinforces three important lessons for technologists and innovators today..."
+      [2022-08-04-through-the-innovation-window.md]
+    - "I believe that understanding the origins of cloud platforms helps us to understand the value they can offer, and the changes that are needed to realise this value..."
+      [2022-08-11-not-just-someone-elses-computer-to-understand-clou.md]
+    - "I sometimes wish that the technology industry had come up with a better term for the global, hyperscale, software defined platforms that I believe will form the dominant computing infrastructure of to..."
+      [2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md]
+
+  I_CAN (59 occurrences):
+    - "(Although not perfectly historically accurate, Apollo 13 remains high on my list of films I can always watch again: if I turn on the television and it’s showing, it’s hard to look away, no matter wher..."
+      [2022-07-14-do-you-know-the-difference-between-reliability-and.md]
+    - "I can use my most sophisticated devices (my phone, my tablet, my laptop) to access and control many aspects of my life: my connections with other people, my finances, my work..."
+      [2022-07-28-is-your-technology-solution-a-well-behaved-house-g.md]
+    - "I can remember the thrill of getting my first mainframe logon, and thinking of how much power I now had at my disposal..."
+      [2022-09-15-what-if-we-behaved-as-if-we-cared-about-technology.md]
+
+  I_WOULD (34 occurrences):
+    - "I would go so far as to say that, if you expect your cloud platforms to become just another set of environments that add to the many different types of environments that you already run, just one more..."
+      [2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md]
+    - "The rules were that in the first week, I would only look at articles from the press, not written by specialists in the field, partly to introduce myself to the subject, but also to get a feel for how ..."
+      [2022-10-06-week-1-the-first-layer-of-the-quantum-onion.md]
+    - "Again, I would go on to encounter this claim in several articles..."
+      [2022-10-06-week-1-the-first-layer-of-the-quantum-onion.md]
+
+================================================================================
+2. FIRST PERSON PLURAL 'WE' PATTERNS
+================================================================================
+
+Total 'we' pattern occurrences: 1121
+Average per post: 6.2
+
+Frequency breakdown:
+  we_can              :  247 occurrences (3.53% of sentences)
+  we_have             :  220 occurrences (3.15% of sentences)
+  we_are              :  217 occurrences (3.11% of sentences)
+  we_should           :  213 occurrences (3.05% of sentences)
+  we_need             :   60 occurrences (0.86% of sentences)
+  we_could            :   53 occurrences (0.76% of sentences)
+  we_must             :   49 occurrences (0.70% of sentences)
+  we_want             :   37 occurrences (0.53% of sentences)
+  we_might            :   25 occurrences (0.36% of sentences)
+
+EXAMPLES OF TOP 'WE' PATTERNS:
+
+  WE_CAN (247 occurrences):
+    - "And I think that is because we can show that typical funding models for change in legacy systems are one cause of the problems with those systems..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "If we modernise the way we treat and trust them, perhaps we can avoid expensive, risky replacement projects..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "This means that we can develop highly codified responses to these failures, and build them into our infrastructure and applications..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+
+  WE_HAVE (220 occurrences):
+    - "Until we realise that we have to do something about them, and embark on expensive modernisation projects, replacing them with packages or top to bottom rewrites..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "For example, although we known that, despite our best efforts, data centres sometimes lose power, this does not happen so often that we have enough data to predict its frequency..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+    - "We have even less data for more extreme and exotic forms of failure, such as simultaneous data centre outages or disruption to national infrastructure..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+
+  WE_ARE (217 occurrences):
+    - "**Because we don’t have the skills any more**
+
+We are starting to get to real reasons: when systems have been around for longer than many people’s careers last, then the people with the deepest unders..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "Nothing about new systems stops us from doing the same, if we are not careful..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "If we only ask what happens when things go wrong in a broad, undefined way, then we don’t know what type of failure we are talking about..."
+      [2022-07-14-do-you-know-the-difference-between-reliability-and.md]
+
+  WE_SHOULD (213 occurrences):
+    - "When breaking down a monolith, we should reflect on how we created it in the first place..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "Architects hated hearing that we should ‘just’ scale up this system to ten times its planned capacity, or ‘just’ modify that system intended for retail customers to serve corporate customers..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "Perhaps this means that, when considering our legacy modernisation strategies, we should look to the team before the systems..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  WE_NEED (60 occurrences):
+    - "Just as with age, we need to be precise about why this is bad..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "Many of the ways in which we operate in large enterprises seem optimised to deliver technology that is not cared for: we cut the time we need for testing, and cut the time we need to build automated t..."
+      [2022-09-15-what-if-we-behaved-as-if-we-cared-about-technology.md]
+    - "Many of the ways in which we operate in large enterprises seem optimised to deliver technology that is not cared for: we cut the time we need for testing, and cut the time we need to build automated t..."
+      [2022-09-15-what-if-we-behaved-as-if-we-cared-about-technology.md]
+
+================================================================================
+3. SECOND PERSON 'YOU' PATTERNS
+================================================================================
+
+Total 'you' pattern occurrences: 703
+Average per post: 3.9
+
+Frequency breakdown:
+  if_you              :  251 occurrences (3.59% of sentences)
+  you_are             :  110 occurrences (1.57% of sentences)
+  you_have            :   90 occurrences (1.29% of sentences)
+  you_can             :   71 occurrences (1.02% of sentences)
+  you_will            :   49 occurrences (0.70% of sentences)
+  you_may             :   35 occurrences (0.50% of sentences)
+  you_want            :   24 occurrences (0.34% of sentences)
+  you_need            :   23 occurrences (0.33% of sentences)
+  you_should          :   17 occurrences (0.24% of sentences)
+  you_might           :   17 occurrences (0.24% of sentences)
+  you_could           :   14 occurrences (0.20% of sentences)
+  you_re              :    2 occurrences (0.03% of sentences)
+
+EXAMPLES OF TOP 'YOU' PATTERNS:
+
+  IF_YOU (251 occurrences):
+    - "If you’ve been part of a development team, you will recognise that this is a terrible way to work..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "At the interface, it may look as if you are providing the requested features; underneath, the code is a boiling mess..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "---
+title: "Do you know the difference between reliability and resilience?"
+date: 2022-07-14
+author: "David Knott"
+source: "https://www.linkedin.com/pulse/do-you-know-difference-between-reliability-re..."
+      [2022-07-14-do-you-know-the-difference-between-reliability-and.md]
+
+  YOU_ARE (110 occurrences):
+    - "At the interface, it may look as if you are providing the requested features; underneath, the code is a boiling mess..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "If you are figuring out the answers to these questions in the middle of the failure, then you will probably make mistakes..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+    - "For cloud customers, this creates opportunities (it’s easier to reach your customers on the Internet from your cloud hosted services) and challenges (migrated services born in the dark, protected envi..."
+      [2022-08-11-not-just-someone-elses-computer-to-understand-clou.md]
+
+  YOU_HAVE (90 occurrences):
+    - "However, it is also sensible to ask whether adopting someone else’s solution will genuinely solve the problems that you have with your legacy systems..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "---
+title: "Is your technology solution a well behaved house guest?"
+date: 2022-07-28
+author: "David Knott"
+source: "https://www.linkedin.com/pulse/your-technology-solution-well-behaved-house-guest-da..."
+      [2022-07-28-is-your-technology-solution-a-well-behaved-house-g.md]
+    - "If you know the reason for your journey (motivation), how far you are prepared to go (ambition), then you have some good starting points..."
+      [2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md]
+
+  YOU_CAN (71 occurrences):
+    - "You can even write object oriented code in COBOL..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "You can do your best to ensure that your service continues to respond to API calls, continues to process data, or continues to present an interface to customers..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+    - "The cloud is something you can weigh..."
+      [2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md]
+
+  YOU_WILL (49 occurrences):
+    - "If you’ve been part of a development team, you will recognise that this is a terrible way to work..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "If you are figuring out the answers to these questions in the middle of the failure, then you will probably make mistakes..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+    - "You need to decide at the enterprise level what matters most, who gets to make decisions, what level of risk you will accept, what investments you will make, and who steps back and who steps forward i..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+
+================================================================================
+4. HEDGING LANGUAGE
+================================================================================
+
+Total hedging occurrences: 910
+Average per post: 5.1
+
+Frequency breakdown:
+  may                 :  275 occurrences (3.94% of sentences)
+  could               :  244 occurrences (3.49% of sentences)
+  might               :  148 occurrences (2.12% of sentences)
+  perhaps             :   93 occurrences (1.33% of sentences)
+  probably            :   46 occurrences (0.66% of sentences)
+  it_seems            :   33 occurrences (0.47% of sentences)
+  maybe               :   29 occurrences (0.41% of sentences)
+  possibly            :   22 occurrences (0.31% of sentences)
+  tend_to             :   11 occurrences (0.16% of sentences)
+  i_suspect           :    8 occurrences (0.11% of sentences)
+  seems_to_me         :    1 occurrences (0.01% of sentences)
+
+EXAMPLES OF TOP HEDGING PATTERNS:
+
+  MAY (275 occurrences):
+    - "If your motivation for modernisation is to cope with the new realities of a digital world, then thoughtful refactoring, redesign or replacement of your legacy systems may make sense..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "Those bad practices may be in the way we manage software, the way we manage people, or the way we manage architectures..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "If we do learn those lessons, then we may be able to build systems that survive extended missions far longer than we expected..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  COULD (244 occurrences):
+    - "Hence the lament that, if _only_ we could change the funding model, we could give the enterprise the architecture that it really needed..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "Hence the lament that, if _only_ we could change the funding model, we could give the enterprise the architecture that it really needed..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "They preserved what was most important (the lives of the crew) while accepting that they could no longer achieve everything they planned (landing on the Moon)..."
+      [2022-07-14-do-you-know-the-difference-between-reliability-and.md]
+
+  MIGHT (148 occurrences):
+    - "We build _resilience_ into systems because we know that things might go wrong in big, bad ways..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+    - "We might suffer a data centre failure and, when we try to fail over to the other data centre, find that the failover doesn’t work..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+    - "Our cloud provider might suffer a control plane failure which takes out the platform - to the extent that we don’t know when it’s coming back..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+
+  PERHAPS (93 occurrences):
+    - "But perhaps this is a self fulfilling prophecy: if we characterize legacy systems in this way, then it should be no surprise that nobody wants to work on them..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "Perhaps our problem isn’t that people are leaving, but that we haven’t invested in making the systems they leave behind easy to understand..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "Perhaps this means that, when considering our legacy modernisation strategies, we should look to the team before the systems..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  PROBABLY (46 occurrences):
+    - "And you never have any time to do refactoring, because refactoring is never a priority for the people who make the investment decisions: they probably have no idea what it is, and wouldn’t know how to..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "If you are figuring out the answers to these questions in the middle of the failure, then you will probably make mistakes..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+    - "Except that you would probably need an escape building, with rooms nested within rooms, elevators that suddenly dump you at the entrance, and empty corridors no-one has been down for years..."
+      [2022-09-22-i-like-spaghetti-on-my-plate-not-in-my-code.md]
+
+================================================================================
+5. ASSERTION PATTERNS
+================================================================================
+
+Total assertion occurrences: 105
+Average per post: 0.6
+
+Frequency breakdown:
+  we_must             :   49 occurrences (0.70% of sentences)
+  you_should          :   17 occurrences (0.24% of sentences)
+  certainly           :   12 occurrences (0.17% of sentences)
+  clearly             :   11 occurrences (0.16% of sentences)
+  it_is_important     :    5 occurrences (0.07% of sentences)
+  obviously           :    5 occurrences (0.07% of sentences)
+  definitely          :    4 occurrences (0.06% of sentences)
+  you_must            :    2 occurrences (0.03% of sentences)
+
+EXAMPLES OF TOP ASSERTION PATTERNS:
+
+  WE_MUST (49 occurrences):
+    - "However, we must be clear about which skills are being lost..."
+      [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+    - "Indeed, we must tell people that something has gone wrong, and what services they can expect while we respond..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+    - "If we think that we must preserve normality in every possible scenario, then we seek a level of resilience which is impossible to achieve, and which might never be needed..."
+      [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+
+  YOU_SHOULD (17 occurrences):
+    - "These things matter for cloud because, if you succeed, you will fundamentally change the way you manage technology in your organisation (and if that’s not the outcome of your cloud programme, perhaps ..."
+      [2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l.md]
+    - "To make this practical, as part of your cloud strategy, you should identify the key leadership roles and the people who will occupy them, asking hard questions about whether these people have or will ..."
+      [2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l.md]
+    - "Above the line, focus on building capabilities that you should be great at..."
+      [2022-12-01-the-line-the-simplest-cloud-architecture-diagram-y.md]
+
+  CERTAINLY (12 occurrences):
+    - "It certainly feels that way to me..."
+      [2022-09-29-into-the-quantum-field-of-ignorance.md]
+    - "Melvin Conway didn’t quite put it like that in 1967: he said, ‘Any organisation that designs a system (defined broadly) will produce a design whose structure is a copy of the organisation’s communicat..."
+      [2022-11-17-conways-law-power-money-capability-and-the-duty-to.md]
+    - "They were certainly capable of learning, but that would take time..."
+      [2022-11-17-conways-law-power-money-capability-and-the-duty-to.md]
+
+  CLEARLY (11 occurrences):
+    - "Perhaps those of us who profess to be technology architects should make a resolution: that we will only perpetuate those standards (and patterns, and policies and guidance - and all the other things w..."
+      [2022-12-08-do-you-have-werewolves-in-your-technology-architec.md]
+    - "It was one of those moments when the future arrives so clearly and conspicuously that it’s impossible to ignore..."
+      [2023-02-02-on-meeting-the-first-robot-of-spring.md]
+    - "But if we think clearly about the risks we run and the progress we can make, we can at least make these comparisons, and the actions that follow from them, rational..."
+      [2023-02-16-who-said-that-adopting-cloud-was-going-to-be-fair.md]
+
+  IT_IS_IMPORTANT (5 occurrences):
+    - "I believe that it is important to keep our eyes, minds and imaginations open enough to spot these moments..."
+      [2023-02-02-on-meeting-the-first-robot-of-spring.md]
+    - "I have come to realise that, part of the reason that it is important to talk about mental health is that many people experience challenges which are not long term, and which don’t require a diagnosis,..."
+      [2023-06-08-time-to-talk-about-mental-health.md]
+    - "Yet, as with any new technology, it is important to stay grounded in how Generative AI actually works..."
+      [2023-07-20-the-fox-and-the-hedgehog.md]
+
+================================================================================
+6. EMOTIONAL REGISTER & SELF-DEPRECATION
+================================================================================
+
+Total emotional/humility markers: 160
+Average per post: 0.9
+
+Frequency breakdown:
+  of_course           :   58 occurrences (0.83% of sentences)
+  i_learnt            :   30 occurrences (0.43% of sentences)
+  frustrated          :   27 occurrences (0.39% of sentences)
+  excited             :   20 occurrences (0.29% of sentences)
+  fascinated          :    8 occurrences (0.11% of sentences)
+  concerned           :    7 occurrences (0.10% of sentences)
+  worried             :    5 occurrences (0.07% of sentences)
+  i_have_no_idea      :    3 occurrences (0.04% of sentences)
+  my_ignorance        :    1 occurrences (0.01% of sentences)
+  amusingly           :    1 occurrences (0.01% of sentences)
+
+EXAMPLES OF EMOTIONAL REGISTER:
+
+  OF_COURSE (58 occurrences):
+    - "Of course, this may be another dangerous ‘just’: we just need to change the way we treat teams managing legacy systems, and we just need to trust them to do the right thing when given a chance..."
+      [2022-07-07-the-human-path-to-legacy-modernisation.md]
+    - "The answer of course, is that it matters a lot..."
+      [2022-08-11-not-just-someone-elses-computer-to-understand-clou.md]
+
+  I_LEARNT (30 occurrences):
+    - "Many years ago, I learnt a lesson about leadership from my friend and ex-colleague, Balasubramanian Ganesh..."
+      [2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l.md]
+    - "Straight away, I learnt something new, but also had new questions..."
+      [2022-10-06-week-1-the-first-layer-of-the-quantum-onion.md]
+
+  FRUSTRATED (27 occurrences):
+    - "One of the reasons that development teams have traditionally been frustrated with on-premise infrastructure (especially in organisations where there is still a hard boundary between dev and ops) is th..."
+      [2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to.md]
+    - "It’s easy to get frustrated if you have answered these questions already, but it’s better to recognise that they will never go away..."
+      [2022-09-08-danger-zones-on-the-way-to-cloud-the-mists-of-conf.md]
+
+  EXCITED (20 occurrences):
+    - "I have definitely done nothing to show why we should be excited about quantum computing, even though I believe that to be the case..."
+      [2022-10-27-schrodingers-yawn-a-deliberately-boring-account-of.md]
+    - "But my brain needs the boring version before I can attempt to give the exciting version, otherwise I can’t get rid of the nagging feeling that I am excited for the wrong reasons..."
+      [2022-10-27-schrodingers-yawn-a-deliberately-boring-account-of.md]
+
+  FASCINATED (8 occurrences):
+    - "How do you ‘read’ them?**
+
+I’ve learnt that ‘reading’ qubits is both mundane and fascinating at the same time..."
+      [2022-11-10-time-travel-back-to-the-days-of-quantum-ignorance.md]
+    - "It’s fascinating because the whole wonder and mystery of quantum mechanics is bound up in that moment of measurement: before that point, the property being measured is not just unknown, it is indeterm..."
+      [2022-11-10-time-travel-back-to-the-days-of-quantum-ignorance.md]
+
+  CONCERNED (7 occurrences):
+    - "They all seemed excited about the potential of the technology, but concerned about the impact on creative professions, and puzzled about how the word ‘creative’ should be used in this context..."
+      [2022-12-22-when-talking-to-ai-be-careful-what-you-ask-for.md]
+    - "I now know roughly how I feel: excited and impressed, but also concerned that we are creating a new set of practical technologies which are difficult to understand, which are often misrepresented, but..."
+      [2022-12-29-generative-ai-time-to-learn-a-whole-new-vocabulary.md]
+
+  WORRIED (5 occurrences):
+    - "What is latency, and why are they so worried about it..."
+      [2023-11-23-how-do-we-make-non-functional-requirements-excitin.md]
+    - "If you are a non-technical project manager, and you are worried that your team member is working on something that’s not on the plan, it might be best to leave them to it: tomorrow they will be more e..."
+      [2024-07-25-laziness-and-improvisation-two-programming-superpo.md]
+
+  I_HAVE_NO_IDEA (3 occurrences):
+    - "This means that, intriguingly, I have no idea what the physical processor of a quantum computer looks like..."
+      [2022-10-06-week-1-the-first-layer-of-the-quantum-onion.md]
+    - "---
+title: "Generative AI: time to learn a whole new vocabulary"
+date: 2022-12-29
+author: "David Knott"
+source: "https://www.linkedin.com/pulse/generative-ai-time-learn-whole-new-vocabulary-david-knot..."
+      [2022-12-29-generative-ai-time-to-learn-a-whole-new-vocabulary.md]
+
+================================================================================
+7. COMPARATIVE VOICE ANALYSIS
+================================================================================
+
+Voice distribution:
+  First person 'I':         706 occurrences
+  First person plural 'we': 1121 occurrences
+  Second person 'you':       703 occurrences
+
+Hedging vs Assertion:
+  Hedging language:          910 occurrences
+  Strong assertions:         105 occurrences
+  Hedge/Assert ratio:       8.67:1

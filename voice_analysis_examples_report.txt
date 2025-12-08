@@ -1,0 +1,521 @@
+================================================================================
+VOICE PATTERN EXAMPLES: WIT, IRONY & CHARACTERISTIC PHRASES
+================================================================================
+
+## SELF-DEPRECATION & HUMILITY
+
+### RELUCTANT ADMISSION (11 examples)
+  "I must admit that I was sceptical: I understand a bit about how neural networks are created in normal digital computers, and struggle to see what would make a quantum computer better at this job"
+  [2022-10-06-week-1-the-first-layer-of-the-quantum-onion.md]
+
+  "I must admit that, if I hadn’t made this commitment to learn in public, I might have given up at this point"
+  [2022-10-13-week-2-of-trying-to-learn-about-quantum-computing.md]
+
+  "This opens up a huge range of possibilities and a way of conceiving of quantum computers as universal machines that I must admit are too big to fit in my head at the moment"
+  [2022-11-03-a-state-of-excitation-about-quantum-computing.md]
+
+  "I must admit that I haven’t spent much time researching the hardware side of quantum computing during these last few weeks (that’s on the to-do list)"
+  [2022-11-10-time-travel-back-to-the-days-of-quantum-ignorance.md]
+
+  "Despite all of the coverage of this new wave of AI, I must admit that I find it hard to understand how it works"
+  [2022-12-15-can-we-generate-intelligence-about-generative-arti.md]
+
+
+### ONGOING DIFFICULTY (4 examples)
+  "-   I struggle to maintain a visualisation of behaviour at the quantum level, but suspect that’s okay as it’s pretty much impossible for humans to visualise in terms that we are used to"
+  [2022-09-29-into-the-quantum-field-of-ignorance.md]
+
+  "What I struggled to find was any explanation of _how_ ChatGPT could do all these things, other than that it was a Large Language Model (LLM) which had been fed with a huge corpus of pre-existing text"
+  [2022-12-22-when-talking-to-ai-be-careful-what-you-ask-for.md]
+
+  "And every time I put analytics systems near the bottom I struggle to think of a way to represent their interaction with all of the other layers"
+  [2023-02-23-technology-architects-be-wary-of-spaghetti-and-sce.md]
+
+  "I find that I struggle to understand complex topics unless I can find such an entry point - and struggle even more to explain them"
+  [2024-09-26-three-quantum-lightbulbs.md]
+
+
+### COMPLETE UNCERTAINTY (3 examples)
+  "This means that, intriguingly, I have no idea what the physical processor of a quantum computer looks like"
+  [2022-10-06-week-1-the-first-layer-of-the-quantum-onion.md]
+
+  "---
+title: "Generative AI: time to learn a whole new vocabulary"
+date: 2022-12-29
+author: "David Knott"
+source: "https://www.linkedin.com/pulse/generative-ai-time-learn-whole-new-vocabulary-david-knott"
+---
+
+I have no idea how to talk about sport"
+  [2022-12-29-generative-ai-time-to-learn-a-whole-new-vocabulary.md]
+
+  "I have no idea what the actors in this programme thought their characters were doing, and suspect that the scriptwriters didn’t either.)
+
+But, wherever it appears in the media, programming looks like typing"
+  [2025-07-24-programming-is-not-typing.md]
+
+
+### OWNING IGNORANCE (1 examples)
+  "Even though I have been working in enterprise computing for over thirty years, there is a lot that I know that I don’t understand, and the breadth of my ignorance expands every day as new technologies are created and new ways of working are discovered"
+  [2022-09-29-into-the-quantum-field-of-ignorance.md]
+
+
+### CONFUSION (1 examples)
+  "There was no technical reason that each record could not be longer, so I was puzzled, curious and a little irritated"
+  [2024-02-15-skeuomorphism-refactoring-and-the-persistence-of-c.md]
+
+
+================================================================================
+## WIT & IRONY
+
+### WRY OBSERVATION (32 examples)
+  "Unfortunately, resources (money, people, leadership attention) were allocated to meet the focused needs of business divisions, rather than to create enterprise capabilities"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  "Many years ago, I learnt a lesson about leadership from my friend and ex-colleague, Balasubramanian Ganesh"
+  [2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l.md]
+
+  "I believe that, unfortunately, this approach is flawed"
+  [2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to.md]
+
+  "Unfortunately, though, the Mists of Confusion are not a region you traverse once: they can descend at any time"
+  [2022-09-08-danger-zones-on-the-way-to-cloud-the-mists-of-conf.md]
+
+  "Unfortunately, there were complications"
+  [2022-11-17-conways-law-power-money-capability-and-the-duty-to.md]
+
+
+### MULTIPLE 'JUST' IRONY (19 examples)
+  "Architects hated hearing that we should ‘just’ scale up this system to ten times its planned capacity, or ‘just’ modify that system intended for retail customers to serve corporate customers"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  "Of course, this may be another dangerous ‘just’: we just need to change the way we treat teams managing legacy systems, and we just need to trust them to do the right thing when given a chance"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  "I would go so far as to say that, if you expect your cloud platforms to become just another set of environments that add to the many different types of environments that you already run, just one more layer of complexity in your architecture, it might be better to spend your attention elsewhere"
+  [2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md]
+
+  "It’s time to build the continuous refresh of skills into our technology budgets, just as we build in the continuous refresh of infrastructure, and to recognise that, just as our technology sometimes needs to undergo major upgrades, so does our understanding"
+  [2023-01-19-the-technology-learning-curve-has-never-been-steep.md]
+
+  "Just like the focus on team formation, belief audits involve some tools and practices, but there is very little magic: just thoughtful, structured, consistent probing of beliefs across stakeholders"
+  [2023-04-27-three-things-ive-learnt-at-bcg.md]
+
+
+### IRONIC REVERSAL (11 examples)
+  "Of course, this may be another dangerous ‘just’: we just need to change the way we treat teams managing legacy systems, and we just need to trust them to do the right thing when given a chance"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  "Of course, we should not merely jump to the other extreme and flood every conversation with technical details that nobody could be expected to understand"
+  [2023-03-30-a-mishap-on-mars.md]
+
+  "Of course, time does not only drive the detection and exploitation of vulnerabilities; it also drives the support status of the products that we use"
+  [2023-07-13-the-three-flavours-of-legacy-sour-bitter-and-sweet.md]
+
+  "The answer is, of course, that, in most cases, in most organisations, the readability, flexibility and maintainability of code is not given the same priority as immediate functional capability"
+  [2023-07-13-the-three-flavours-of-legacy-sour-bitter-and-sweet.md]
+
+  "Of course, I don’t think this means that we should give up: it is, after all, our [duty to explain](https://www.linkedin.com/pulse/round-trip-question-duty-explain-david-knott?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)"
+  [2023-07-27-what-can-technologists-learn-from-board-games.md]
+
+
+### PARADOX (8 examples)
+  "---
+title: "Freedom is not free: managing your cognitive and operational economies"
+date: 2024-08-22
+author: "David Knott"
+source: "https://www.linkedin.com/pulse/freedom-free-managing-your-cognitive-operational-economies-knott-a2w8e"
+---
+
+_Freedom is not free._
+
+Let’s unpack that apparently paradoxical phrase into something a bit more unwieldy, but a little clearer"
+  [2024-08-22-freedom-is-not-free-managing-your-cognitive-and-op.md]
+
+  "---
+title: "It's more complicated on the inside than it is on the outside"
+date: 2025-01-30
+author: "David Knott"
+source: "https://www.linkedin.com/pulse/its-more-complicated-inside-than-outside-david-knott-9xn0e"
+---
+
+We don’t need time machines to create paradoxes in technology: they are built into the way we work"
+  [2025-01-30-its-more-complicated-on-the-inside-than-it-is-on-t.md]
+
+  "One of these paradoxes is that the simpler technology appears on the outside, the more complicated it is on the inside"
+  [2025-01-30-its-more-complicated-on-the-inside-than-it-is-on-t.md]
+
+  "Is this paradox a problem"
+  [2025-01-30-its-more-complicated-on-the-inside-than-it-is-on-t.md]
+
+  "I think the paradox becomes a problem when it places a barrier of understanding between the people who build and run technology, and the people who lead the organisations on which that technology depends"
+  [2025-01-30-its-more-complicated-on-the-inside-than-it-is-on-t.md]
+
+
+### DIFFICULTY IRONY (7 examples)
+  "First, they had to optimize for developers: to make it safe and easy to get code into production (in contrast to many on-premise architectures, which seem to be optimized to deter developers, and to make it as hard as possible to get code into production)"
+  [2022-08-11-not-just-someone-elses-computer-to-understand-clou.md]
+
+  "It is easy to imagine many practical applications, but it is hard to understand both the technology and the models"
+  [2022-12-29-generative-ai-time-to-learn-a-whole-new-vocabulary.md]
+
+  "I found it easy to learn the syntax of the assembly language - there aren’t that many commands - but very hard to master the concepts, particularly the idea that I had to manually shuttle data in and out of registers"
+  [2024-01-04-try-visiting-a-different-layer-of-abstraction.md]
+
+  "It’s just about hard enough to give you a sense of achievement, but easy enough that you get the right word most of the time"
+  [2024-10-10-good-standards-are-like-a-good-starting-word-in-wo.md]
+
+  "The solution to the second problem is harder than the solution to the first (not that implementing DevOps is easy - if it was, then it would be implemented everywhere and we might not be talking about it any more)"
+  [2024-12-19-all-i-want-for-christmas-is-speed-and-reliability.md]
+
+
+### COMPLEXITY IRONY (6 examples)
+  "If complex systems are built on a foundation of simple protocols, then they are not only valuable, they may also be surprisingly resilient and efficient"
+  [2022-09-15-what-if-we-behaved-as-if-we-cared-about-technology.md]
+
+  "But, by necessity, these courses tend to be quite short and simple: they often teach students how to build a simple web app not far beyond ‘Hello World’ complexity"
+  [2022-09-22-i-like-spaghetti-on-my-plate-not-in-my-code.md]
+
+  "**The perspective of risk**
+
+In [this TED talk](https://www.ted.com/talks/bruce_schneier_the_security_mirage), the security expert Bruce Schneier reminds us that, when we think about risk, we are particularly prone to heuristics and cognitive biases: reactions which may serve us well when navigating hostile physical environments full of immediate danger, but are less useful when navigating complex social or technical environments whose dangers are not simple or obvious"
+  [2023-02-16-who-said-that-adopting-cloud-was-going-to-be-fair.md]
+
+  "I am sure that there are better models, but this simple set of 5 Ps helps me make sense of a complex field: I hope some readers will find it helpful too"
+  [2023-08-10-5-ps-ingredients-for-technology-success.md]
+
+  "One approach to this is to simply give up: to assume that all discussion of complex topics must be translated into the simplest possible terms, that technologists should care about technology, that non-technical leaders should only care about outcomes, and that we should get comfortable with existing in two different worlds"
+  [2024-08-29-dont-stop-explaining.md]
+
+
+### EXPLICIT IRONY (1 examples)
+  "However, there is an irony in crowds of people using expensive mobile phones to take pictures of the service that you used when you _didn’t_ have a phone - and which has largely been rendered obsolete by those same mobile phones"
+  [2024-02-15-skeuomorphism-refactoring-and-the-persistence-of-c.md]
+
+
+================================================================================
+## CHARACTERISTIC PHRASES
+
+### "I THINK THAT" (151 uses)
+  "I think that legacy transformation often makes sense, but we do not always do it for the best reasons"
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "And I think that is because we can show that typical funding models for change in legacy systems are one cause of the problems with those systems"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  "I think that these two examples help us think through the difference between reliability and resilience in enterprise computing"
+  [2022-07-14-do-you-know-the-difference-between-reliability-and.md]
+
+
+### "I BELIEVE THAT" (92 uses)
+  "I believe that this historical moment reinforces three important lessons for technologists and innovators today"
+  [2022-08-04-through-the-innovation-window.md]
+
+  "I believe that understanding the origins of cloud platforms helps us to understand the value they can offer, and the changes that are needed to realise this value"
+  [2022-08-11-not-just-someone-elses-computer-to-understand-clou.md]
+
+  "I believe that to get most value out of cloud, enterprises should be ambitious, and should be explicit about that ambition"
+  [2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md]
+
+
+### "PERHAPS WE" (21 uses)
+  "If we modernise the way we treat and trust them, perhaps we can avoid expensive, risky replacement projects"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  "I, like many other architects, felt the light bulb go on, and then jumped to the conclusion: ‘If we can structure our teams in the right way, then perhaps we can structure our architecture in the right way.’ And then I got busy drawing org charts and making the case for reorganising teams"
+  [2022-11-17-conways-law-power-money-capability-and-the-duty-to.md]
+
+  "Perhaps we go wrong, not by holding cloud to a higher standard, but by accepting a lower standard for our on-premise infrastructure"
+  [2023-02-16-who-said-that-adopting-cloud-was-going-to-be-fair.md]
+
+
+### "I HAVE LEARNT" (18 uses)
+  "The core lesson here (and one that I have learnt painfully over the years) is that while it may make sense to replace legacy systems that are beyond repair, if we do not also replace the practices that put them beyond repair, we will find ourselves in the same situation again"
+  [2022-09-22-i-like-spaghetti-on-my-plate-not-in-my-code.md]
+
+  "I have learnt that analogies based on non-quantum phenomena can be dangerous in this field, but here’s an analogy which is currently helping me understand why qubits might be interesting"
+  [2022-10-20-a-quantum-of-understanding-thanks-to-help-from-som.md]
+
+  "In those weeks, I have learnt enough to have a rough mental model of how generative AI, particularly Large Language Models (LLMs) work: put simply, they are large scale statistical models, trained on huge quantities of data, implemented through multi layered neural network architectures, which predict an acceptable visual or linguistic response to a text input (a prompt)"
+  [2023-01-05-generative-ai-and-the-duty-to-understand.md]
+
+
+### "I HAVE SEEN" (11 uses)
+  "On the few occasions I have seen this done, I have seen two important results"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  "Firstly, I have seen that, when we trust the team to organise their work, they deliver more features and improve the quality of the system"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  "Secondly, I have seen a remarkable shift in ownership, engagement and pride"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+
+### "IT TURNS OUT" (10 uses)
+  "But, although the term is still vague and over-used, it turns out to be the imaginative application of technologies which are comprehensible and familiar.)
+
+Then there are those other topics that are heavily hyped and mystifying (there’s a theme here), and which get more intriguing the deeper you go"
+  [2022-10-13-week-2-of-trying-to-learn-about-quantum-computing.md]
+
+  "It turns out that making use of Conway’s law involves more than moving around some boxes and lines on an arg chart: the ‘organisation’s communication structure’ is more than just the explicitly declared hierarchy"
+  [2022-11-17-conways-law-power-money-capability-and-the-duty-to.md]
+
+  "(And it turns out that the collective noun for a group of foxes is an earth - although it can also be called a leash or a skulk"
+  [2023-07-20-the-fox-and-the-hedgehog.md]
+
+
+### "WHAT IF WE" (9 uses)
+  "What if we recognized the role of these systems in the core of our enterprises, acknowledged that they are critical to our ability to operate, and celebrated the feats of engineering required to get them to perform"
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "What if we invested instead in changing the way our legacy teams work"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  "What if we put them first rather than last when adopting practices such as Agile or DevOps"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+
+### "IN MY EXPERIENCE" (2 uses)
+  "In my experience, technology functions often allocate small amounts of their budgets to training, and underspend even that which they do allocate: it sometimes seems too hard to find the time amongst the pressures of project work, backlogs, schedules and production incidents"
+  [2023-01-19-the-technology-learning-curve-has-never-been-steep.md]
+
+  "_Can’t they just enjoy the show?_
+
+In my experience, computing professionals rarely seek precision and clarity because of pedantry and cynicism"
+  [2024-12-12-precision-is-not-pedantry-clarity-is-not-cynicism.md]
+
+
+### "IT SEEMS TO ME" (1 uses)
+  "It seems to me likely that LLMs are like air fryers, and that we are living in an extended version of the post-purchase euphoric period when we try to use them to do everything - including things that it turns out that they are not very good at"
+  [2025-01-09-are-llms-the-air-fryers-of-ai.md]
+
+
+### "THE CHALLENGE IS" (1 uses)
+  "I think that the optimisation problem becomes even more profound when we realise that the challenge is not just to express what we want, but to know what we want in the first place"
+  [2023-01-26-how-do-we-get-what-we-want-from-ai-systems-and-hum.md]
+
+
+================================================================================
+## QUALIFICATION & HEDGING PHRASES
+
+### "OFTEN" (202 uses)
+  "When building business cases we usually plan on a three to five year horizon; when calculating depreciation, we often give software assets a seven to ten year lifespan..."
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "Unlike Voyager, though, we often lament the longevity of these systems..."
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "Legacy systems are often genuine problems for enterprises..."
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+
+### "TEND TO" (15 uses)
+  "A lot has been written about the technical aspects of cloud migration, and I do not intend to replicate that here..."
+  [2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md]
+
+  "Similarly, in this article, I don’t intend to get into debates about migration tools, portability standards or security patterns, What I hope may be useful are some ideas about how to think about and organise the less technical aspects of your journey to cloud..."
+  [2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th.md]
+
+  "But, by necessity, these courses tend to be quite short and simple: they often teach students how to build a simple web app not far beyond ‘Hello World’ complexity..."
+  [2022-09-22-i-like-spaghetti-on-my-plate-not-in-my-code.md]
+
+
+### "I SUSPECT" (8 uses)
+  "**Balance**
+
+I suspect that many people, especially those people in cloud operations, controls or security teams will have read that previous section with frustration, thinking that it’s all very well to optimize for developer productivity, but that they are the ones who will get blamed if there’s a..."
+  [2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to.md]
+
+  "I suspect that facts like these - how powerful a quantum computer is, how much it costs and who is in the lead - will change continuously, and will only ever be accurate at the time of going to press, if then..."
+  [2022-10-06-week-1-the-first-layer-of-the-quantum-onion.md]
+
+  "I am sure that this analogy will soon break down: I haven’t learnt enough yet about entanglement, but I suspect it will be hard to translate into images of flipping coins..."
+  [2022-10-20-a-quantum-of-understanding-thanks-to-help-from-som.md]
+
+
+### "GENERALLY" (4 uses)
+  "But I think I’m going to try the following:
+
+-   Week 1: pick a topic and share the little I know about it, and give myself a mark out of 10 for understanding (no further research allowed)
+-   Week 2: read some articles from the popular press and see whether that clear things up or confuses them fur..."
+  [2022-09-29-into-the-quantum-field-of-ignorance.md]
+
+  "I’m a technology optimist, and think that, despite legitimate concerns about privacy, about the social impacts of social media, and about digital exclusion, we can generally use technology to make our lives better..."
+  [2023-09-07-things-arent-always-what-they-seem-cloud-ml-and-th.md]
+
+  "However, there are many practices (Agile, DevOps, SRE) which, despite become generally recognised as the best way to do things, are still not universally followed - or even followed by the majority of organisations..."
+  [2024-02-22-a-tale-of-two-codebases.md]
+
+
+### "I WOULD ARGUE" (2 uses)
+  "But, for most of the era of traditional software, it has been possible for people who care enough systems to get to bottom of how they work: not everyone can code, and even fewer people can code well, but I would argue that the basic logical constructs that make up traditional coding languages can b..."
+  [2023-01-05-generative-ai-and-the-duty-to-understand.md]
+
+  "It’s also worth reflecting just how long it takes to reach the professionalisaton phase: we have had classical computing products since the 1960s, but I would argue that it took us up to fifty years to figure out how to use them well (if you disagree, think of all of the methods, practices and conce..."
+  [2024-09-26-three-quantum-lightbulbs.md]
+
+
+### "I WOULD SUGGEST" (1 uses)
+  "I would suggest that you find a meeting, virtual or otherwise, which has three important characteristics..."
+  [2024-07-04-it-is-about-the-technology-and-all-the-other-stuff.md]
+
+
+================================================================================
+## METAPHORS & ANALOGIES (499 examples)
+  "It was alarming therefore, to read reports that it was being shut down - and reassuring to find that those reports were somewhat exaggerated"
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "I was also intrigued to learn that Voyager 1 is currently on its ‘extended mission’"
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "We regard them as antiquated, slow to change, difficult to maintain, and blame them for our lack of agility, inflated costs and alarming risk profile"
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "What if we put them first rather than last when adopting practices such as Agile or DevOps"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  "But this feels like a just which is well within the power of most technology teams"
+  [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+  "Although Apollo 11 was famously successful, this was almost not the case"
+  [2022-07-14-do-you-know-the-difference-between-reliability-and.md]
+
+  "If you listen to the famous recording of the descent, you would never guess that this was a moment of historical uncertainty, made all the more uncertain by unexpected errors in critical equipment"
+  [2022-07-14-do-you-know-the-difference-between-reliability-and.md]
+
+  "Unlike Apollo 11, Apollo 13 is famous for what went wrong"
+  [2022-07-14-do-you-know-the-difference-between-reliability-and.md]
+
+  "The big decision to shut down the command module and preserve its power for landing, using the lunar module as a lifeboat, had been considered prior to launch"
+  [2022-07-14-do-you-know-the-difference-between-reliability-and.md]
+
+  "This wasn’t always the case: in the early days of my career, having failover equipment was an optional extravagance, and disaster recovery was, for many companies, a new discipline"
+  [2022-07-14-do-you-know-the-difference-between-reliability-and.md]
+
+  "Each of these failure modes has a different likelihood and a different impact"
+  [2022-07-14-do-you-know-the-difference-between-reliability-and.md]
+
+  "If we think of all types of failure as rare and exceptional, then we compromise reliability: we bolt on responses to failure, rather than build them in"
+  [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+
+  "And, just like any code, if we build a certain type of behaviour (the ability to operate in the event of a routine failure), but don’t test it, then our job is not done"
+  [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+
+  "Both were treated as afterthoughts in enterprise computing for many years, until we became so dependent on computer systems that they could not be ignored"
+  [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+
+  "I was attending an internal conference within the technology department of a large bank"
+  [2022-07-28-is-your-technology-solution-a-well-behaved-house-g.md]
+
+  "I was at the top end of the spectrum; perhaps I even counted as an early adopter"
+  [2022-07-28-is-your-technology-solution-a-well-behaved-house-g.md]
+
+  "It was a strange feeling, looking through the window which had produced such a significant image"
+  [2022-08-04-through-the-innovation-window.md]
+
+  "A daguerreotype was a faithful, positive representation of the scene or person in front of the camera"
+  [2022-08-04-through-the-innovation-window.md]
+
+  "A photographic negative was a weird representation, reversed in tone and orientation"
+  [2022-08-04-through-the-innovation-window.md]
+
+  "Not only was a daguerrotype fragile, but each was unique: there was no way of making more than one image of the same scene without going through the process all over again"
+  [2022-08-04-through-the-innovation-window.md]
+
+
+================================================================================
+## RHETORICAL QUESTIONS (14 examples)
+  "---
+title: "What if we behaved as if we cared about technology?"
+date: 2022-09-15
+author: "David Knott"
+source: "https://www.linkedin.com/pulse/what-we-behaved-cared-technology-david-knott"
+---
+
+There is a puzzle in enterprise technology"
+  [2022-09-15-what-if-we-behaved-as-if-we-cared-about-technology.md]
+
+  "---
+title: "How do we get what we want from AI systems - and human systems?"
+date: 2023-01-26
+author: "David Knott"
+source: "https://www.linkedin.com/pulse/how-do-we-get-what-want-from-ai-systems-human-david-knott"
+---
+
+I am sure that you have heard of the paperclip problem"
+  [2023-01-26-how-do-we-get-what-we-want-from-ai-systems-and-hum.md]
+
+  "_And what if the third party outsourcing company who administers all our on-premise databases does the same thing?_
+-   What if my cloud provider goes bust"
+  [2023-02-16-who-said-that-adopting-cloud-was-going-to-be-fair.md]
+
+  "_And what if the same happens to any of the providers that ship me patches, licence keys and parts every day?_
+-   What if the cloud platform suffers an irretrievable technical failure across its entire global infrastructure"
+  [2023-02-16-who-said-that-adopting-cloud-was-going-to-be-fair.md]
+
+  "_And what if a much smaller failure takes out my handful of strategic data centres?_
+
+We cannot remove our cognitive biases: they are baked into the structure of our thought"
+  [2023-02-16-who-said-that-adopting-cloud-was-going-to-be-fair.md]
+
+  "---
+title: "What if we could see software?"
+date: 2023-04-13
+author: "David Knott"
+source: "https://www.linkedin.com/pulse/what-we-could-see-software-david-knott"
+---
+
+One problem with software is that we can’t see it"
+  [2023-04-13-what-if-we-could-see-software.md]
+
+  "How can we get a business stakeholder to care about code readability when they’re never going to see the code?_
+
+As well as creating legacy, though, this overwhelming pressure gives us some indication of how we should tackle it"
+  [2023-10-12-the-dawn-of-a-post-legacy-world.md]
+
+  "---
+title: "How do we get people to care about computing?"
+date: 2023-10-26
+author: "David Knott"
+source: "https://www.linkedin.com/pulse/how-do-we-get-people-care-computing-david-knott-fjume"
+---
+
+‘I’m not technical.’
+
+If you work in enterprise technology, I bet your heart sinks when you hear those words"
+  [2023-10-26-how-do-we-get-people-to-care-about-computing.md]
+
+  "---
+title: "How do we make non-functional requirements exciting?"
+date: 2023-11-23
+author: "David Knott"
+source: "https://www.linkedin.com/pulse/how-do-we-make-non-functional-requirements-exciting-david-knott-5wd3e"
+---
+
+_They’ve got that look again._
+
+If you’re a technology architect, particularly one who designs infrastructure, then you’re used to people getting that look"
+  [2023-11-23-how-do-we-make-non-functional-requirements-excitin.md]
+
+  "_Why not just access the files directly, like always?_
+
+But as I started to become familiar with APIs, it became apparent that I could treat systems as fundamentally different entities: not just as wobbly and porous blobs of code and data, but as things with sharp boundaries and well defined behaviours"
+  [2023-12-21-now-youre-thinking-with.md]
+
+  "**How do we authenticate AI agents and determine their authority?**
+
+Authentication is one of the persistent problems of digital services: we want our services to be helpful, but only to the right person"
+  [2025-01-02-on-the-2025-to-do-list-figure-out-ai-agents.md]
+
+  "**How do we check the validity of an AI agents’ behaviour?**
+
+If you have ever written code for a front end system, you will know that a remarkable amount of it is made up of error handling, warnings and disclaimers"
+  [2025-01-02-on-the-2025-to-do-list-figure-out-ai-agents.md]
+
+  "What’s next and how can we do it differently?’
+
+These examples are, of course, caricatures, and cynical ones at that"
+  [2025-06-26-business-sponsor-translation-service.md]
+
+  "Those different types of expertise come together best in multi-disciplinary teams, teams of people who talk to each other, share success, and spark each others’ imaginations in a cascade of escalating ‘what if?’s"
+  [2025-11-20-dont-settle-for-horses-when-you-could-have-dragons.md]

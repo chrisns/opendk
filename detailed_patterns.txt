@@ -1,0 +1,172 @@
+POSTS WITH ITALIC OPENINGS (Statement type):
+======================================================================
+
+2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l
+  First: _Surely_ by now we must know how to enact transformation within large organisations
+  Second: We obtain loads of funding, appoint the programme director, set up the PMO, build the programme plan
+
+2023-02-16-who-said-that-adopting-cloud-was-going-to-be-fair
+  First: _It’s not fair!_
+
+The cry of the outraged sibling through the ages
+  Second: Why is my older sibling allowed to go places that I’m not allowed to go
+
+2023-05-18-answering-the-question-how-do-you-stay-current
+  First: _How do you stay current?_
+
+I have to admit that, every time I am asked this question, I panic a lit
+  Second: I have an answer: there are blogs and sites I read, there are people I follow on social media, I hav
+
+2023-07-20-the-fox-and-the-hedgehog
+  First: _A fox knows many things, but a hedgehog knows one big thing._
+
+I am sure that you have heard this s
+  Second: I think that this saying is useful in enterprise technology: we work in a field full of foxes (techn
+
+2023-09-21-in-praise-of-the-golden-hammer
+  First: _If you have a hammer, everything looks like a nail._
+
+_The Golden Hammer_ is one of the best known 
+  Second: The idea is that, if you have a particular tool, especially a tool in which you have invested large 
+
+2023-11-23-how-do-we-make-non-functional-requirements-excitin
+  First: _They’ve got that look again._
+
+If you’re a technology architect, particularly one who designs infra
+  Second: Their eyes glaze over, their smile becomes fixed
+
+2024-03-07-more-than-just-a-job
+  First: _Was this the right decision?_
+
+In mid-2022, I got a phone call, asking whether I would like to appl
+  Second: I had only been in my current job for a short time, so I said no
+
+2024-04-04-interesting-engineering-problems-1-survival
+  First: _That’s the prototype: now we just need to turn it into a production application._
+
+The people at th
+  Second: They have just been taken through a whirlwind of demoes, slides and post-it notes
+
+2024-04-25-innovation-as-application-a-murmur-from-the-mumble
+  First: _What was that?_
+
+A modest stone plaque on a street corner, part overgrown with leaves
+  Second: My wife and I were heading home from an exhibition at Olympia when we spotted it
+
+2024-07-04-it-is-about-the-technology-and-all-the-other-stuff
+  First: _It’s not about the technology._
+
+Have you ever said those words
+  Second: I have said them several times in my career, and heard them many more times
+
+2024-07-11-three-reasons-to-learn-to-code
+  First: _There’s no point in learning to code: In a few years’ time, we won’t need programmers any more._
+
+I
+  Second: But that’s nothing new: I’ve heard people say this every year throughout a long career in technology
+
+2024-08-22-freedom-is-not-free-managing-your-cognitive-and-op
+  First: _Freedom is not free._
+
+Let’s unpack that apparently paradoxical phrase into something a bit more un
+  Second: _In the context of enterprise technology, freedom of choice comes with a cognitive and operational p
+
+2024-09-05-are-you-under-attack-from-your-corporate-immune-sy
+  First: _It was supposed to protect us._
+
+One of the most disconcerting aspects of the recent Crowdstrike in
+  Second: Rapid deployment was intended to help us respond quickly to new threats against which we would other
+
+2024-10-31-are-you-overfitting-your-delivery-decisions-and-to
+  First: _Overfitting_ is a term from the world of machine learning
+  Second: It describes the problem that arises when you train a model on a dataset, and use that model to make
+
+2025-03-20-adventures-in-ignorance
+  First: _Nobody knows anything._
+
+That’s the number one rule in _Adventures in the Screen Trade_, the book b
+  Second: Goldman’s insight was that, even though the film industry was getting on for a century old when he w
+
+2025-06-19-who-leads
+  First: _When do you become a leader?_
+
+I was recently asked this question while on stage, speaking at an ev
+  Second: Given that I was supposed to be speaking about leadership, I should have an answer ready, but I have
+
+
+POSTS WITH QUESTION OPENINGS:
+======================================================================
+
+2024-07-18-keeping-the-lights-on
+  Do you have a line in your IT budget which says something like ‘keep the lights on’ or ‘keep the show on the road’, or ‘
+
+
+POSTS WITH MOST BOLD HEADERS:
+======================================================================
+
+2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems: 8 headers
+  • Because they’re old
+  • Because they’re written in old coding languages
+  • Because nobody wants to work on them
+  • Because we don’t have the skills any more
+  • Because they’re slow to change
+  • Because operating conditions have changed
+  • Because they’re too big
+  • Because somebody else does it better
+
+2022-11-10-time-travel-back-to-the-days-of-quantum-ignorance: 6 headers
+  • How do quantum computers actually work? How do you do computation with qubits? How do you program a quantum computer?
+  • How do you get the information out of a collection of qubits? How do you ‘read’ them?
+  • Does quantum computing work for any problem? Or does it only work for certain types of problem? Could they replace traditional computers?
+  • Are real quantum computers actually in existence today? Where are they and who owns them? What do they look like?
+  • Will I ever have a quantum computer in my home or in my pocket? Or will they always be exotic devices that I access through the cloud?
+  • Is the threat to encryption real? If so, how long do we have?
+
+2023-05-04-what-do-i-believe-about-enterprise-technology: 6 headers
+  • Technology should be a force for good
+  • Technology is a human practice
+  • It’s easy to get lost in the heavy lifting
+  • We have a duty to understand and a duty to explain
+  • We must take responsibility in all dimensions
+  • Don’t panic!
+
+2022-12-29-generative-ai-time-to-learn-a-whole-new-vocabulary: 5 headers
+  • There are a few important terms . . .
+  • . . . but it’s all still machine learning doing prediction . . .
+  • . . . the difference is architecture and scale.
+  • The models deliver plausibility, not accuracy or creativity . . .
+  • . . . and it’s really hard to understand exactly what’s going on.
+
+2023-08-31-lessons-learnt-from-five-years-of-learning-lessons: 5 headers
+  • Build a habit
+  • Write about stuff that you know
+  • Write about things that you don’t know
+  • Respect yourself and your readers
+  • Learn to stop worrying
+
+
+POSTS WITH LINKS:
+======================================================================
+Posts with most links:
+  2022-12-29-generative-ai-time-to-learn-a-whole-new-vocabulary: 10 links
+  2022-11-10-time-travel-back-to-the-days-of-quantum-ignorance: 9 links
+  2022-10-20-a-quantum-of-understanding-thanks-to-help-from-som: 5 links
+  2023-01-05-generative-ai-and-the-duty-to-understand: 5 links
+  2023-03-02-is-there-a-human-shaped-hole-in-your-technology-pl: 5 links
+  2022-10-13-week-2-of-trying-to-learn-about-quantum-computing: 4 links
+  2022-11-03-a-state-of-excitation-about-quantum-computing: 4 links
+  2024-04-11-engineering-for-a-distant-future: 4 links
+  2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to: 3 links
+  2022-09-08-danger-zones-on-the-way-to-cloud-the-mists-of-conf: 3 links
+
+
+POSTS WITH BULLET LISTS:
+======================================================================
+  2022-09-29-into-the-quantum-field-of-ignorance: 17 bullets
+  2022-11-10-time-travel-back-to-the-days-of-quantum-ignorance: 3 bullets
+  2022-12-15-can-we-generate-intelligence-about-generative-arti: 9 bullets
+  2022-12-29-generative-ai-time-to-learn-a-whole-new-vocabulary: 7 bullets
+  2023-02-16-who-said-that-adopting-cloud-was-going-to-be-fair: 3 bullets
+  2024-05-30-have-we-overloaded-the-term-technical-debt: 5 bullets
+  2024-06-06-devops-and-the-case-of-the-non-fungible-dba: 4 bullets
+  2025-03-06-theres-always-a-bigger-goat-dont-let-big-problems: 3 bullets

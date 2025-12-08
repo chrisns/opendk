@@ -1,0 +1,233 @@
+================================================================================
+DAVID KNOTT BLOG: STRUCTURE & MECHANICS ANALYSIS
+180 Posts (June 2022 - December 2025)
+================================================================================
+
+1. OPENING PATTERNS
+--------------------------------------------------------------------------------
+
+  FACT: 135 posts (75.0%)
+  STATEMENT: 16 posts (8.9%)
+  ANECDOTE: 14 posts (7.8%)
+  CONFESSION: 14 posts (7.8%)
+  QUESTION: 1 posts (0.6%)
+
+First sentence length:
+  Average: 90 characters
+  Min: 1 characters
+  Max: 386 characters
+
+20 Sample Openings (diverse selection):
+
+  QUESTION:
+    "Do you have a line in your IT budget which says something like ‘keep the lights on’ or ‘keep the show on the road’, or ‘maintenance’ or ‘support’ - or even just ‘run?"
+
+  CONFESSION:
+    "I have no idea how to talk about sport"
+
+    "I am sure that you have heard of the paperclip problem"
+
+    "I don’t have many regrets, but I do regret not paying more attention in maths class when I was about 17 years old"
+
+    "I was at an event recently where a presenter apologised for talking about technology risk"
+
+    "I believe that the use of technology has an outsized impact on the success of organisations, and that the quality of technical leaders has an outsized impact on the successful use of technology"
+
+  ANECDOTE:
+    "Last week I had the chance to look through a historical pane of glass"
+
+    "In 1933 our understanding of the universe changed"
+
+    "On September 23rd, 1999, the Mars Climate Orbiter fired its thrusters for a manoeuvre that would bring it into a stable orbit 226 kilometres above the Martian surface"
+
+    "On October 14th, 1947, Chuck Yeager became the first human to break the sound barrier, flying the Bell X-1 experimental plane"
+
+    "One problem with software is that we can’t see it"
+
+  STATEMENT:
+    "_Surely_ by now we must know how to enact transformation within large organisations"
+
+    "_It’s not fair!_
+
+The cry of the outraged sibling through the ages"
+
+    "_How do you stay current?_
+
+I have to admit that, every time I am asked this question, I panic a little internally"
+
+    "_A fox knows many things, but a hedgehog knows one big thing._
+
+I am sure that you have heard this saying before: it’s attributed to the Greek poet Archilochus, who lived in the 7th century BCE, so it’s been around for a while"
+
+    "_If you have a hammer, everything looks like a nail._
+
+_The Golden Hammer_ is one of the best known anti-patterns"
+
+  FACT:
+    "The Voyager 1 spacecraft, launched in 1977, has been flying through space for most of my life, and for longer than many people today have been alive"
+
+    "‘We just need to change the funding model.’
+
+I heard that phrase many times when leading architecture teams, and it always made my heart sink"
+
+    "If you want to know the difference between reliability and resilience, look to the Moon"
+
+    "How do you prepare for things that just keep on going wrong"
+
+    "‘How many devices do you have in your home connected to the Internet"
+
+
+2. SECTION ORGANIZATION
+--------------------------------------------------------------------------------
+
+Posts with bold headers: 38 (21.1%)
+Posts with flowing prose only: 142 (78.9%)
+
+Average bold headers per structured post: 3.3
+  Min: 2 headers
+  Max: 8 headers
+
+H2 markdown headers (##): 0 total
+H3 markdown headers (###): 0 total
+  → Bold (**text**) is STRONGLY preferred over H2/H3
+
+Header naming patterns (125 headers analyzed):
+  Noun Phrase: 82 (65.6%)
+  Imperative: 19 (15.2%)
+  Question: 16 (12.8%)
+  Because: 8 (6.4%)
+
+Sample bold headers:
+  • Because they’re old
+  • Because they’re written in old coding languages
+  • Because nobody wants to work on them
+  • Because we don’t have the skills any more
+  • Because they’re slow to change
+  • Because operating conditions have changed
+  • Because they’re too big
+  • Because somebody else does it better
+  • Reliability protects normality; resilience strives for survival
+  • Reliability should be routine; resilience requires imagination
+  • Reliability needs testing; resilience requires rehearsal
+  • Rapid innovation is not new
+  • Incremental innovation can also be fundamental innovation
+  • Immediate advantages may not be obvious
+  • Centrality of the Internet
+  • Innovation with the Prospect of Scale
+  • Need for Reliability
+  • Motivation
+  • Ambition
+  • Leadership
+  • Thought
+  • Empowerment
+  • Balance
+  • The Mists of Confusion
+  • The Mountains of No
+
+
+3. PARAGRAPH ARCHITECTURE
+--------------------------------------------------------------------------------
+
+Paragraphs per post:
+  Average: 14.7
+  Min: 7
+  Max: 37
+
+Sentences per paragraph:
+  Average: 2.8
+  Single-sentence paragraphs: 759/2649 (28.7%)
+
+Distribution:
+  1 sentence(s): 759 paragraphs (28.7%)
+  2 sentence(s): 555 paragraphs (21.0%)
+  3 sentence(s): 571 paragraphs (21.6%)
+  4 sentence(s): 360 paragraphs (13.6%)
+  5 sentence(s): 205 paragraphs (7.7%)
+  6 sentence(s): 105 paragraphs (4.0%)
+  7 sentence(s): 53 paragraphs (2.0%)
+  8 sentence(s): 19 paragraphs (0.7%)
+  9 sentence(s): 7 paragraphs (0.3%)
+  10 sentence(s): 8 paragraphs (0.3%)
+
+Paragraphs starting with transition words: 375/2469 (15.2%)
+
+
+4. CLOSING PATTERNS
+--------------------------------------------------------------------------------
+
+Posts with disclaimer: 179/180 (99.4%)
+
+Disclaimer variants found: 4
+
+Disclaimer text variants:
+  "(Views in this article are my own.)"
+  "(_Views in this article are my own.)_"
+  "_(Views in this article are my own – but the horrors in your code base are yours.)_"
+  "_(Views in this article are my own.)_"
+
+Paragraph BEFORE disclaimer (closing type analysis):
+  Call To Action: 89 (49.4%)
+  Other: 62 (34.4%)
+  Forward Looking: 22 (12.2%)
+  Callback: 5 (2.8%)
+  None: 1 (0.6%)
+  Synthesis: 1 (0.6%)
+
+
+5. FORMATTING CONVENTIONS
+--------------------------------------------------------------------------------
+
+Usage across all 180 posts:
+  Bold:
+    Total: 186 | Avg per post: 1.0 | In 47 posts (26.1%)
+  Italic:
+    Total: 0 | Avg per post: 0.0 | In 0 posts (0.0%)
+  Links:
+    Total: 145 | Avg per post: 0.8 | In 77 posts (42.8%)
+  Parentheticals:
+    Total: 733 | Avg per post: 4.1 | In 180 posts (100.0%)
+  Em Dashes:
+    Total: 1 | Avg per post: 0.0 | In 1 posts (0.6%)
+  En Dashes:
+    Total: 135 | Avg per post: 0.8 | In 26 posts (14.4%)
+  Bullet Lists:
+    Total: 51 | Avg per post: 0.3 | In 8 posts (4.4%)
+  Numbered Lists:
+    Total: 9 | Avg per post: 0.1 | In 2 posts (1.1%)
+
+Key insights:
+  • Bold used primarily for section headers, not emphasis
+  • Italics VERY rare (only 2 total) - not used for emphasis
+  • Parentheticals common (~4 per post) - used for asides, clarifications
+  • Em-dashes rare - not a stylistic signature
+  • Lists infrequent - prose flow strongly preferred
+
+
+6. LENGTH ANALYSIS
+--------------------------------------------------------------------------------
+
+Word count statistics:
+  Average: 886 words
+  Median: 864
+  Min: 602 words
+  Max: 1605 words
+
+Shortest: 2023-08-10-5-ps-ingredients-for-technology-success (602 words)
+Longest: 2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems (1605 words)
+
+Word count distribution:
+     0- 600 words:   0 posts ( 0.0%)
+   600- 750 words:  37 posts (20.6%)
+   750- 900 words:  68 posts (37.8%)
+   900-1000 words:  40 posts (22.2%)
+  1000-1250 words:  30 posts (16.7%)
+  1250-1500 words:   3 posts ( 1.7%)
+  1500-2000 words:   2 posts ( 1.1%)
+
+Length correlation with structure:
+  Posts WITH bold headers: avg 1050 words
+  Posts WITHOUT bold headers: avg 842 words
+
+================================================================================
+END OF ANALYSIS
+================================================================================

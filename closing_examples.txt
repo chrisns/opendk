@@ -1,0 +1,74 @@
+SAMPLE CLOSING PARAGRAPHS (before disclaimer)
+================================================================================
+
+CALL TO ACTION:
+--------------------------------------------------------------------------------
+
+2022-07-07-the-human-path-to-legacy-modernisation:
+  Of course, this may be another dangerous ‘just’: we just need to change the way we treat teams managing legacy systems, and we just need to trust them to do the right thing when given a chance. But this feels like a just which is well within the power of most technology teams.
+
+2022-07-28-is-your-technology-solution-a-well-behaved-house-g:
+  Recently, the rapid growth of Artificial Intelligence (AI) has triggered increased focus on its ethical implications, prompting companies to develop principles, codes of practice and frameworks, and otherwise embrace the concept of what is coming to be known as Responsible AI. This is a good thing, ...
+
+2022-08-04-through-the-innovation-window:
+  It’s a privilege and a wonder to be able to go back to the origins of innovations in this way, to stand on the spot where the world changed. I think we should do this more often, and reflect on what it teaches us: innovation looks to the future, but we should learn from the past.
+
+2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to:
+  And we will still make mistakes. And we will still experience setbacks and disappointments, just as we do when we attempt anything that is difficult. In the next and final article in this series, I will discuss how we can find and maintain persistence when doing the hard thing of moving to cloud.
+
+2022-09-15-what-if-we-behaved-as-if-we-cared-about-technology:
+  Technology is exciting and powerful. When we do it well, it transforms the companies we work for and the lives of their customers. We should be enthusiastic and evangelical. We should explain technology with patience, but we should also explain it with passion. We should make the case of building mo...
+
+FORWARD LOOKING:
+--------------------------------------------------------------------------------
+
+2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems:
+  Old is not bad, but bad practices accumulated over time can make systems which are very bad. Those bad practices may be in the way we manage software, the way we manage people, or the way we manage architectures. The experience of running legacy systems over decades has taught us a lot of lessons: i...
+
+2022-08-18-how-do-i-get-there-from-here-two-first-rungs-on-th:
+  If you know the reason for your journey (motivation), how far you are prepared to go (ambition), then you have some good starting points. But that’s not enough: in my next article, I will explore the importance of leadership, thought, empowerment, balance and persistence.
+
+2022-09-08-danger-zones-on-the-way-to-cloud-the-mists-of-conf:
+  Cloud is not new any more. Many companies are on their second or third attempt at cloud transformation. Or they are part way through their first and wondering why it is so hard. What do you say in response to this question? If you’ve mastered the three types of persistence outlined in this article, ...
+
+2022-11-17-conways-law-power-money-capability-and-the-duty-to:
+  Part of the job of architects is to explain how choices today shape the future, even choices apparently as innocuous as which team does a piece of work. This work is never ending: it’s fortunate that architects like talking.
+
+2022-12-15-can-we-generate-intelligence-about-generative-arti:
+  As with quantum computing, I’m looking forward to learning more, and hope that learning in public will keep me motivated and focused. If you’ve got any good suggestions on books, articles, or other resources, please let me know in the comments.
+
+CALLBACK:
+--------------------------------------------------------------------------------
+
+2022-07-21-do-you-need-an-umbrella-or-a-lifeboat:
+  Reliability is an engineering problem; resilience is a strategic need. Both were treated as afterthoughts in enterprise computing for many years, until we became so dependent on computer systems that they could not be ignored. The good news is that reliability and resilience turn out to be important...
+
+2022-12-01-the-line-the-simplest-cloud-architecture-diagram-y:
+  Of course, life is more complicated than this simple diagram implies. It is rare to find that reality truly resolves to a single sharp line. But I believe that, keeping this diagram in mind helps us to understand and remember the value we aim to realise from cloud. and prevents cloud from becoming y...
+
+2023-11-02-the-vicious-circle-of-legacy-technology:
+  I try to remember that, however a project is managed, however a system is built, whatever compromises are demanded, the technologists are the builders: it is our hands on the keyboards, and we carry the ultimate responsibility for what we build. If we embody that responsibility, if we make the case ...
+
+2024-04-11-engineering-for-a-distant-future:
+  Fortunately, this sort of problem is interesting to solve, just like the problem of long term nuclear waste storage, and just like the other interesting engineering problems I wrote about [last week](https://www.linkedin.com/pulse/interesting-engineering-problems-1-survival-david-knott-8pbwe/). As I...
+
+2025-11-27-how-augmented-is-your-reality:
+  For those of us who work in technology, I think that our task is to recognise that the devices and interfaces we build have already become part of the reality of billions of people around the world. The devices they carry, and the information they consume give us the opportunity to offer them experi...
+
+OTHER:
+--------------------------------------------------------------------------------
+
+2022-07-14-do-you-know-the-difference-between-reliability-and:
+  There’s a lot more to say about this distinction: I’ll explore further next week.
+
+2022-08-11-not-just-someone-elses-computer-to-understand-clou:
+  I believe that understanding the origins of cloud platforms helps us to understand the value they can offer, and the changes that are needed to realise this value. Cloud platforms came into existence because the companies that created them had to use technology to solve new and interesting problems....
+
+2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l:
+  But even if your travel bag for the cloud is full of leadership and thought, you still need more: next week, I’ll try to tackle to topics of empowerment, balance and persistence.
+
+2022-09-29-into-the-quantum-field-of-ignorance:
+  Let’s take a step into the realm of uncertainty . . .
+
+2022-10-06-week-1-the-first-layer-of-the-quantum-onion:
+  So, I’m leaving my foray into the articles on quantum computing slightly better informed than I was, but with more questions than when I started. I also came away with the feeling that, as I expected, this field is both hard to write about and hard to read about in lay terms. There is something abou...

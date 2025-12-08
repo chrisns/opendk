@@ -1,0 +1,174 @@
+================================================================================
+DEEP VOICE ANALYSIS: CONTEXT, TRANSITIONS & STYLISTIC PATTERNS
+================================================================================
+
+## VOICE TRANSITION PATTERNS
+Total detected transitions: 266
+
+Transition frequency:
+  I to we: 157 occurrences
+  we to you: 109 occurrences
+
+Example transitions:
+
+  I TO WE:
+    From: "I was also intrigued to learn that Voyager 1 is currently on its ‘extended mission’. Its original mission, to gather data on the outer planets and moo..."
+    To:   "The idea of the extended mission immediately reminded me of the enterprise computer systems we build and run. When building business cases we usually ..."
+    [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+    From: "I heard that phrase many times when leading architecture teams, and it always made my heart sink...."
+    To:   "It was normally said with good intent by architects who were working on a problem which required long term, multi-year investment to build shared asse..."
+    [2022-07-07-the-human-path-to-legacy-modernisation.md]
+
+
+  WE TO YOU:
+    From: "But perhaps this is a self fulfilling prophecy: if we characterize legacy systems in this way, then it should be no surprise that nobody wants to work..."
+    To:   "If your motivation for modernisation is to make people want to work on your core systems, then you need to think about how you make that work interest..."
+    [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+    From: "However, we must be clear about which skills are being lost. It’s often possible to replace technical skills, even in unglamorous technologies (see ab..."
+    To:   "If your motivation for modernisation is a lack of skills, think hard about the skills you want to build and the skills you don’t: do you want excellen..."
+    [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+
+================================================================================
+## OPENING SENTENCE PATTERNS
+================================================================================
+
+Voice in opening sentences:
+  Starts with 'I':          42 (23.3%)
+  Starts with 'we':         23 (12.8%)
+  Starts with 'you':        39 (21.7%)
+  Opens with question:      22 (12.2%)
+  Opens with hedge:          4 (2.2%)
+  Opens with assertion:      2 (1.1%)
+
+Example question openings:
+  "How do you escape the ivory tower?"
+  [2022-11-24-build-your-way-out-of-the-ivory-tower.md]
+
+  "What can Aristotle, a philosopher from the 4th century BCE, teach us about technology that was released in 2022?"
+  [2023-01-12-in-the-wonderland-of-new-technology-lets-be-curiou.md]
+
+  "When do we get signals of the future?"
+  [2023-02-02-on-meeting-the-first-robot-of-spring.md]
+
+  "Which is harder, acquiring new beliefs or discarding old ones?"
+  [2023-05-25-swimming-against-the-tide-of-your-own-skills-the-i.md]
+
+  "What does legacy technology taste like?"
+  [2023-07-13-the-three-flavours-of-legacy-sour-bitter-and-sweet.md]
+
+
+================================================================================
+## CLOSING SENTENCE PATTERNS
+================================================================================
+
+Voice in closing sentences:
+  Closes with 'I':           0 (0.0%)
+  Closes with 'we':          0 (0.0%)
+  Closes with 'you':         0 (0.0%)
+  Closes with hedge:         0 (0.0%)
+  Closes with assertion:     0 (0.0%)
+  Closes with CTA:           0 (0.0%)
+
+Example call-to-action closings:
+
+================================================================================
+## READER RELATIONSHIP & POSITIONING
+================================================================================
+
+EMPATHETIC stance: 30 occurrences
+  "The idea of the extended mission immediately reminded me of the enterprise computer systems we build and run. When building business cases we usually plan on a three to five year horizon; when calcula..."
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "I occasionally think back to this event when I look at the desk in my study, and contemplate the array of screens, cables and chargers that cover it today. These days I easily exceed five devices with..."
+  [2022-07-28-is-your-technology-solution-a-well-behaved-house-g.md]
+
+  "It certainly feels that way to me. That’s why this newsletter is called ‘A Lot to Learn’. Even though I have been working in enterprise computing for over thirty years, there is a lot that I know that..."
+  [2022-09-29-into-the-quantum-field-of-ignorance.md]
+
+
+COLLABORATIVE stance: 557 occurrences
+  "Unlike Voyager, though, we often lament the longevity of these systems. We regard them as antiquated, slow to change, difficult to maintain, and blame them for our lack of agility, inflated costs and ..."
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "But perhaps this is a self fulfilling prophecy: if we characterize legacy systems in this way, then it should be no surprise that nobody wants to work on them. What if we recognized the role of these ..."
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "However, we must be clear about which skills are being lost. It’s often possible to replace technical skills, even in unglamorous technologies (see above). But it’s harder to replace deep systems know..."
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+
+QUESTIONING stance: 244 occurrences
+  "If your motivation for modernisation is simply to have code in one language rather than another language, think carefully about what advantages this gives you. And be cautious of code converters: do y..."
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "But perhaps this is a self fulfilling prophecy: if we characterize legacy systems in this way, then it should be no surprise that nobody wants to work on them. What if we recognized the role of these ..."
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "However, we must be clear about which skills are being lost. It’s often possible to replace technical skills, even in unglamorous technologies (see above). But it’s harder to replace deep systems know..."
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+
+AUTHORITATIVE stance: 31 occurrences
+  "If your motivation for modernisation is to make people want to work on your core systems, then you need to think about how you make that work interesting and valued - legacy or not...."
+  [2022-06-30-old-is-not-bad-are-you-modernising-legacy-systems.md]
+
+  "Together, these differences between reliability and resilience teach us one final, important lesson: although reliability depends on characteristics of underlying platforms and infrastructure, it can ..."
+  [2022-07-21-do-you-need-an-umbrella-or-a-lifeboat.md]
+
+  "I believe that there are essential characteristics of transformation which are often missed when setting up large initiatives, and that these are particularly important for cloud transformation: leade..."
+  [2022-08-25-going-to-the-cloud-make-sure-youve-packed-enough-l.md]
+
+
+PEER stance: 14 occurrences
+  "Recently, the rapid growth of Artificial Intelligence (AI) has triggered increased focus on its ethical implications, prompting companies to develop principles, codes of practice and frameworks, and o..."
+  [2022-07-28-is-your-technology-solution-a-well-behaved-house-g.md]
+
+  "We all make mistakes, especially when we are building and running enterprise technology...."
+  [2022-09-01-theres-plenty-of-room-on-the-cloud-enough-room-to.md]
+
+  "A diagram this simple also needs a few words of justification. We all know that adopting a public cloud platform involves a separation of concerns: that there is work that you do and work that your cl..."
+  [2022-12-01-the-line-the-simplest-cloud-architecture-diagram-y.md]
+
+
+================================================================================
+## TOPIC-SPECIFIC CONFIDENCE CALIBRATION
+================================================================================
+
+AI:
+  Total paragraphs: 1026
+  Hedged:           403 (39.3%)
+  Assertive:        252 (24.6%)
+  Hedge/Assert:     1.60:1
+
+PEOPLE:
+  Total paragraphs: 706
+  Hedged:           274 (38.8%)
+  Assertive:        167 (23.7%)
+  Hedge/Assert:     1.64:1
+
+ARCHITECTURE:
+  Total paragraphs: 254
+  Hedged:           112 (44.1%)
+  Assertive:         59 (23.2%)
+  Hedge/Assert:     1.90:1
+
+CLOUD:
+  Total paragraphs: 182
+  Hedged:            63 (34.6%)
+  Assertive:         42 (23.1%)
+  Hedge/Assert:     1.50:1
+
+LEGACY:
+  Total paragraphs: 127
+  Hedged:            40 (31.5%)
+  Assertive:         23 (18.1%)
+  Hedge/Assert:     1.74:1
+
+QUANTUM:
+  Total paragraphs: 101
+  Hedged:            34 (33.7%)
+  Assertive:         17 (16.8%)
+  Hedge/Assert:     2.00:1
