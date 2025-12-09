@@ -1,0 +1,102 @@
+name: Build Skill Package
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'david-knott-voice/**'
+      - '.claude-plugin/**'
+  pull_request:
+    branches: [main]
+  release:
+    types: [published]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate plugin structure
+        run: |
+          echo "Validating plugin structure..."
+
+          # Check required files exist
+          if [ ! -f "david-knott-voice/SKILL.md" ]; then
+            echo "Error: SKILL.md not found"
+            exit 1
+          fi
+
+          if [ ! -f "david-knott-voice/.claude-plugin/plugin.json" ]; then
+            echo "Error: plugin.json not found"
+            exit 1
+          fi
+
+          if [ ! -f ".claude-plugin/marketplace.json" ]; then
+            echo "Error: marketplace.json not found"
+            exit 1
+          fi
+
+          echo "Plugin structure validated successfully"
+
+      - name: Extract version from plugin.json
+        id: version
+        run: |
+          VERSION=$(jq -r '.version' david-knott-voice/.claude-plugin/plugin.json)
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "Detected version: $VERSION"
+
+      - name: Build .skill package
+        run: |
+          cd david-knott-voice
+          zip -r ../david-knott-voice.skill . -x "*.DS_Store" -x "__MACOSX/*"
+          cd ..
+          echo "Package size: $(du -h david-knott-voice.skill | cut -f1)"
+          echo "Package contents:"
+          unzip -l david-knott-voice.skill
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: david-knott-voice-skill
+          path: david-knott-voice.skill
+          retention-days: 30
+
+      - name: Upload to release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v1
+        with:
+          files: david-knott-voice.skill
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  validate-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate JSON files
+        run: |
+          echo "Validating marketplace.json..."
+          jq . .claude-plugin/marketplace.json > /dev/null
+
+          echo "Validating plugin.json..."
+          jq . david-knott-voice/.claude-plugin/plugin.json > /dev/null
+
+          echo "All JSON files are valid"
+
+      - name: Check version consistency
+        run: |
+          MARKETPLACE_VERSION=$(jq -r '.plugins[0].version' .claude-plugin/marketplace.json)
+          PLUGIN_VERSION=$(jq -r '.version' david-knott-voice/.claude-plugin/plugin.json)
+
+          if [ "$MARKETPLACE_VERSION" != "$PLUGIN_VERSION" ]; then
+            echo "Warning: Version mismatch between marketplace.json ($MARKETPLACE_VERSION) and plugin.json ($PLUGIN_VERSION)"
+          else
+            echo "Versions match: $PLUGIN_VERSION"
+          fi

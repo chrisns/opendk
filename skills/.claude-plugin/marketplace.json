@@ -1,0 +1,33 @@
+{
+  "name": "david-knott-marketplace",
+  "owner": {
+    "name": "David Knott",
+    "url": "https://www.linkedin.com/in/davidknott/"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for writing in David Knott's distinctive voice",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "david-knott-voice",
+      "source": "./david-knott-voice",
+      "description": "Write blog posts and articles in David Knott's distinctive voice - a senior technology architect who combines intellectual authority with genuine humility. Perfect for technology leadership content, LinkedIn newsletters, and enterprise technology thought pieces.",
+      "version": "1.0.0",
+      "author": {
+        "name": "David Knott"
+      },
+      "license": "MIT",
+      "keywords": [
+        "writing",
+        "voice",
+        "blog",
+        "technology",
+        "leadership",
+        "british",
+        "linkedin"
+      ],
+      "category": "writing"
+    }
+  ]
+}

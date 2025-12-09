@@ -1,0 +1,27 @@
+{
+  "name": "david-knott-voice",
+  "version": "1.0.0",
+  "description": "Write blog posts and articles in David Knott's distinctive voice - a senior technology architect who combines intellectual authority with genuine humility.",
+  "author": {
+    "name": "David Knott",
+    "url": "https://www.linkedin.com/in/davidknott/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "voice",
+    "blog",
+    "technology",
+    "leadership",
+    "british",
+    "linkedin",
+    "newsletter"
+  ],
+  "category": "writing",
+  "skills": {
+    "david-knott-voice": {
+      "path": "skills/david-knott-voice",
+      "description": "Write in David Knott's distinctive technology leadership voice"
+    }
+  }
+}
